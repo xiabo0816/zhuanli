@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="CN102009000190429CN00001020256780AFULZH20110420CN00R.XML" dateProduced="20171219" status="C" lang="zh" country="CN" docNumber="102025678" kind="A" datePublication="20110420">
+  <business:BibliographicData>
+    <business:PublicationReference dataFormat="original" sourceDB="national office" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>102025678</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20110420</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>102025678</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20110420</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicAvailabilityDate>
+      <business:GazetteReference>
+        <business:GazetteNumber>27-16</business:GazetteNumber>
+        <base:Date>20110420</base:Date>
+      </business:GazetteReference>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="national office">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>200910190429.0</base:DocNumber>
+        <base:Date>20090911</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>102009000190429</base:DocNumber>
+        <base:Date>20090911</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails creator="03" processingType="original">
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>27</business:MainGroup>
+        <business:Subgroup>26</business:Subgroup>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04L   27/26    (2006.01)</base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="2">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>25</business:MainGroup>
+        <business:Subgroup>03</business:Subgroup>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04L   25/03    (2006.01)</base:Text>
+      </business:ClassificationIPCR>
+      <business:ClassificationIPCR sequence="3">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:Section>H</business:Section>
+        <business:MainClass>04</business:MainClass>
+        <business:Subclass>L</business:Subclass>
+        <business:MainGroup>25</business:MainGroup>
+        <business:Subgroup>02</business:Subgroup>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>H04L   25/02    (2006.01)</base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:InventionTitle lang="zh" dataFormat="original" sourceDB="national office" processingType="original" creator="03">信道估计方法、装置及相干检测系统</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails representative="1">
+        <business:Applicant sequence="1" appType="applicant" dataFormat="original" sourceDB="national office" lang="zh" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>华为技术有限公司</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>龙岗区</base:County>
+              <base:City>深圳市</base:City>
+              <base:Province>广东省</base:Province>
+              <base:PostCode>518129</base:PostCode>
+              <base:WIPOST3Code>CN</base:WIPOST3Code>
+              <base:Text>518129 广东省深圳市龙岗区坂田华为基地</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="national office" lang="zh" publicationMark="0" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>仲文</base:Name>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="national office" lang="zh" publicationMark="0" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>周美丽</base:Name>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="3" dataFormat="original" sourceDB="national office" lang="zh" publicationMark="0" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>高西奇</base:Name>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="4" dataFormat="original" sourceDB="national office" lang="zh" publicationMark="0" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>王东明</base:Name>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="5" dataFormat="original" sourceDB="national office" lang="zh" publicationMark="0" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>秦一平</base:Name>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+    </business:Parties>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="zh" sourceDB="national office" processingType="original" creator="03">
+    <base:Paragraphs num="0001">本发明揭示了一种信道估计方法、装置及一种相干检测系统。其中信道估计方法，包括：获取导频符号在DCT域的信道参数；对DCT域的信道参数进行滤波；对滤波后的信道参数进行IDCT；根据导频符号处的信道频域衰落系数，获取数据符号处的信道频域衰落系数。信道估计装置，包括：模块1用于获取导频符号DCT域的信道参数；模块2用于对DCT域的信道参数进行滤波；模块3用于对滤波后的信道参数进行IDCT；模块4用于根据导频符号处的信道参数，获取数据符号处的信道参数。一种相干检测系统，包括前述的信道估计装置。本发明提供的实施例中，由于DCT变换具有能量集中的作用，经过DCT变换之后的信道参数能量集中在矢量的前半部分，从而可以平底效应，改善信道估计性能。</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image he="795.419776" wi="661" file="200910190429.TIF" imgContent="undefined" imgFormat="TIFF" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description lang="zh" dataFormat="original" sourceDB="national office" creator="03">
+    <business:InventionTitle id="tilte1">信道估计方法、装置及相干检测系统
+  </business:InventionTitle>
+    <business:TechnicalField id="technical-field001">
+      <base:Paragraphs id="p0001" num="0001">技术领域</base:Paragraphs>
+      <base:Paragraphs id="p0002" num="0002">本发明实施例涉及通信领域，特别涉及信道估计方法、装置及相干检测系统。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:BackgroundArt id="background-art001">
+      <base:Paragraphs id="p0003" num="0003">背景技术</base:Paragraphs>
+      <base:Paragraphs id="p0004" num="0004">为了满足未来移动通信对系统容量、频谱利用率、数据传输率等多方面越来越高的需求。在LTE技术中改进并增强了3G的空中接入技术，采用了正交频分(OFDM)技术和多输入多输出(MIMO)技术，实现了在20MHz频谱带宽下能够提供下行100Mbit/s与上行50Mbit/s的峰值速率，改善了小区边缘用户的性能，提高小区容量和降低系统延迟。其中，MIMO技术可以在不增加带宽的情况下，成倍地提高系统容量和频谱利用率，越来越多地应用到无线通信系统中。OFDM技术是多载波并行传输中的代表性技术，因具有抗多径衰落能力强、对窄带干扰和窄带噪声不敏感、带宽扩展灵活和支持可变用户速率等一系列特点。但OFDM系统存在峰均比高的问题，考虑到移动终端的成本，LTE系统将离散傅立叶变换扩频的正交频分复用(DFT-S-OFDM)作为上行链路的传输技术。它在传统OFDM传输技术的基础上采用频域处理的数据扩展方式，具有与单载波传输相接近的峰均比性能，并且能够灵活的分配不同用户占用的子载波，满足上行链路的要求。</base:Paragraphs>
+      <base:Paragraphs id="p0005" num="0005">在无线通信系统中，相干检测比非相干检测通常可以多3-4dB的性能增益，因此常采用相干检测技术。为了实现相干检测，需要获取信道参数，因此需要在接收端需进行信道估计。为了能够及时准确地估计出信道参数，实际的通信系统常采用基于导频序列的信道估计方法。</base:Paragraphs>
+      <base:Paragraphs id="p0006" num="0006">本发明的发明人在实现本发明的过程中发现：现有的系统中，数据带宽通常只占整个系统带宽的一小部分，传统的在整个传输带宽上的基于DFT变换的时域最小二乘估计(LS)无法获得；在导频传输窄带上的基于离散傅立叶变换(DFT)的时域LS估计和线性最小均方误差估计(LMMSE)由于DFT变换能量不集中，可能导致信道估计出现严重的性能底板效应，即DFT降噪带来的好处小于多径扩散能量的损失，从而使得DFT的性能比LS性能还要差，使得信道估计性能恶化。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:Disclosure id="disclosure001">
+      <base:Paragraphs id="p0007" num="0007">发明内容</base:Paragraphs>
+      <base:Paragraphs id="p0008" num="0008">本发明实施例提供了一种信道估计方法和装置，以解决现有技术中信道估计的性能较差的问题。可以较低的复杂度改善传统基于DFT的变换域信道估计带来的性能底板问题，提高了信道估计性能。</base:Paragraphs>
+      <base:Paragraphs id="p0009" num="0009">本发明实施例提供了一种信道估计方法，包括：</base:Paragraphs>
+      <base:Paragraphs id="p0010" num="0010">S101.获取导频符号在DCT(离散余弦变换)域的信道参数；</base:Paragraphs>
+      <base:Paragraphs id="p0011" num="0011">S102.对所述DCT域的信道参数进行滤波；</base:Paragraphs>
+      <base:Paragraphs id="p0012" num="0012">S103.对所述滤波后的信道参数进行IDCT(逆离散余弦变换)以获取导频符号处的信道频域衰落系数；</base:Paragraphs>
+      <base:Paragraphs id="p0013" num="0013">S104.根据所述导频符号处的信道频域衰落系数，获取数据符号处的信道频域衰落系数。</base:Paragraphs>
+      <base:Paragraphs id="p0014" num="0014">本发明另一实施例还提供了一种信道估计装置，包括：</base:Paragraphs>
+      <base:Paragraphs id="p0015" num="0015">模块1，用于获取导频符号DCT域的信道参数；</base:Paragraphs>
+      <base:Paragraphs id="p0016" num="0016">模块2，用于对所述DCT域的信道参数进行滤波；</base:Paragraphs>
+      <base:Paragraphs id="p0017" num="0017">模块3，用于对所述滤波后的信道参数进行IDCT以获取导频符号处的信道参数；</base:Paragraphs>
+      <base:Paragraphs id="p0018" num="0018">模块4，用于根据所述导频符号处的信道参数，获取数据符号处的信道参数。</base:Paragraphs>
+      <base:Paragraphs id="p0019" num="0019">本发明另一实施例还提供了一种相干检测系统，包括一种信道估计装置，所述信道估计装置包括：模块41，用于获取导频符号DCT域的信道参数；模块42，用于对所述DCT域的信道参数进行滤波；模块43，用于对所述滤波后的信道参数进行IDCT以获取导频符号处的信道参数；模块44，用于根据所述导频符号处的信道参数，获取数据符号处的信道参数。</base:Paragraphs>
+      <base:Paragraphs id="p0020" num="0020">本发明实施例的方案中，由于DCT变换具有能量集中的作用，经过DCT变换之后的信道参数能量集中在该矢量的前半部分，从而可以避免在信噪比较高的环境下由于能量不集中所带来的底板效应，从而改善了信道估计性能。</base:Paragraphs>
+    </business:Disclosure>
+    <business:DrawingsDescription id="description-of-drawings001">
+      <base:Paragraphs id="p0021" num="0021">附图说明</base:Paragraphs>
+      <base:Paragraphs id="p0022" num="0022">为了更清楚地说明本发明实施例中的技术方案，下面将对实施例或现有技术描述中所需要使用的附图作简单地介绍，显而易见地，下面描述中的附图仅仅表明本发明的一些实施例，对于本领域普通技术人员来讲，在不付出创造性劳动的前提下，还可以根据这些附图获得其他实施例的附图。</base:Paragraphs>
+      <base:Paragraphs id="p0023" num="0023">图1为本发明实施例提供的一种信道估计方法的流程图；</base:Paragraphs>
+      <base:Paragraphs id="p0024" num="0024">图2为本发明另一实施例提供的一种信道估计方法的流程图；</base:Paragraphs>
+      <base:Paragraphs id="p0025" num="0025">图3为本发明一实施例提供的一种信道估计装置示意图；</base:Paragraphs>
+      <base:Paragraphs id="p0026" num="0026">图4为本发明另一实施例提供的一种信道估计装置示意图；</base:Paragraphs>
+      <base:Paragraphs id="p0027" num="0027">图5为本发明一实施例提供的一种相干检测系统示意图。</base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:InventionMode id="mode-for-invention001">
+      <base:Paragraphs id="p0028" num="0028">具体实施方式</base:Paragraphs>
+      <base:Paragraphs id="p0029" num="0029">为了使本技术领域的人员更好地理解本发明方案，下面将结合本发明实施例中的附图，对本发明实施例中的技术方案进行清楚、完整地描述，显然，所描述的实施例仅仅是本发明一部分实施例，而不是全部的实施例。基于本发明中的实施例，本领域普通技术人员在没有做出创造性劳动前提下所获得的所有其他实施例，都应当属于本发明保护的范围。</base:Paragraphs>
+      <base:Paragraphs id="p0030" num="0030">参考图1，示出了本发明实施例提供的一种信道估计方法的流程图，所述方法包括：</base:Paragraphs>
+      <base:Paragraphs id="p0031" num="0031">S101.获取导频符号在DCT(离散余弦变换)域的信道参数；</base:Paragraphs>
+      <base:Paragraphs id="p0032" num="0032">S102.对所述DCT域的信道参数进行滤波；</base:Paragraphs>
+      <base:Paragraphs id="p0033" num="0033">S103.对所述滤波后的信道参数进行IDCT(逆离散余弦变换)以获取导频符号处的信道参数；</base:Paragraphs>
+      <base:Paragraphs id="p0034" num="0034">S104.根据所述导频符号处的信道参数，获取数据符号处的信道参数。</base:Paragraphs>
+      <base:Paragraphs id="p0035" num="0035">由于DCT变换具有能量集中的作用，经过DCT变换之后的信道频域衰落系数能量集中在该矢量的前半部分，从而可以避免在信噪比较高的环境下由于能量不集中所带来的底板效应，而且实现复杂度不高，可以较好的改善信道估计性能。</base:Paragraphs>
+      <base:Paragraphs id="p0036" num="0036">参考图2，示出了本发明另一实施例提供的一种信道估计方法的流程图，该方法具体可以应用在空分的正交频分多址系统中，所述方法包括：</base:Paragraphs>
+      <base:Paragraphs id="p0037" num="0037">S201.构造发送端的时域、频域二维导频数据结构；</base:Paragraphs>
+      <base:Paragraphs id="p0038" num="0038">本实施例中首先在发送端构造一个二维导频数据结构，具体的，可以是构造导频序列及导频摆放的位置。本实施例中可以采用块状导频，一帧或者时隙中时域符号数为N<base:Sub>s</base:Sub>，举例来说，N<base:Sub>s</base:Sub>的个数可以设置在12-14之间；导频符号在时域方向的数目为N<base:Sub>P</base:Sub>，举例来说，可以将N<base:Sub>P</base:Sub>设置为1-3之间的一个整数；频域子载波长度为N<base:Sub>c</base:Sub>，举例来说，子载波长度N<base:Sub>c</base:Sub>可以设置为2048；导频符号和数据符号占用的频域子载波个数为N<base:Sub>b</base:Sub>，举例来说，子载波的个数可以为72-1200之间的一个整数，通常可以将N<base:Sub>b</base:Sub>的取值设为72、144、300、600或1200，且一般有N<base:Sub>b</base:Sub>＜N<base:Sub>c</base:Sub>，导频符号的基本序列可以由CAZAC(恒模零自相关)序列产生，而不同发送天线/用户的导频序列可以由基本序列的不同循环移位得到，假设一帧中的所有导频符号序列相同，则不同发送天线/用户的导频序列之间满足下列循环移位的关系：</base:Paragraphs>
+      <base:Paragraphs id="p0039" num="0039">
+        <base:MathDetails num="0001">
+          <base:MathText><![CDATA[ <math><mfenced open='{' close=''><mtable><mtr><mtd><msub><mi>x</mi><mi>j</mi></msub><mo>=</mo><msub><mi>W</mi><mrow><mi>j</mi><mo>-</mo><mi>i</mi></mrow></msub><mo>&CenterDot;</mo><msub><mi>x</mi><mi>i</mi></msub></mtd></mtr><mtr><mtd><msub><mi>W</mi><mi>n</mi></msub><mo>=</mo><mi>diag</mi><mo>{</mo><mn>1</mn><mo>,</mo><msup><mi>e</mi><mrow><mi>j</mi><msub><mi>&alpha;</mi><mi>n</mi></msub></mrow></msup><mo>,</mo><msup><mi>e</mi><mrow><mi>j</mi><mn>2</mn><msub><mi>&alpha;</mi><mi>n</mi></msub></mrow></msup><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>,</mo><msup><mi>e</mi><mrow><mi>j</mi><mrow><mo>(</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn><mo>)</mo></mrow><msub><mi>&alpha;</mi><mi>n</mi></msub></mrow></msup><mo>}</mo></mtd></mtr><mtr><mtd><msub><mi>&alpha;</mi><mi>n</mi></msub><mo>=</mo><mn>2</mn><mi>&pi;n</mi><mo>/</mo><msub><mi>N</mi><mi>T</mi></msub></mtd></mtr></mtable></mfenced></math> ]]></base:MathText>
+        </base:MathDetails>(公式1)</base:Paragraphs>
+      <base:Paragraphs id="p0040" num="0040">其中x<base:Sub>i</base:Sub>表示第i个天线/用户的导频序列，diag{·}为以括号内的矢量为主对角元素的对角阵，N<base:Sub>T</base:Sub>为用户个数，W、E和α为中间变量。</base:Paragraphs>
+      <base:Paragraphs id="p0041" num="0041">假设天线/用户的个数为N<base:Sub>T</base:Sub>，接收天线个数为N<base:Sub>R</base:Sub>，则每个接收通道待估计的信道参数个数为N<base:Sub>T</base:Sub>×N<base:Sub>b</base:Sub>，用x<base:Sub>i</base:Sub>表示第i个天线/用户的导频序列，在接收端的其中一个接收通道去掉循环保护之后的第n<base:Sub>p</base:Sub>个导频段的接收信号为：</base:Paragraphs>
+      <base:Paragraphs id="p0042" num="0042">
+        <base:MathDetails num="0002">
+          <base:MathText><![CDATA[ <math><mrow><mi>Y</mi><mrow><mo>(</mo><msub><mi>n</mi><mi>p</mi></msub><mo>)</mo></mrow><mo>=</mo><munderover><mi>&Sigma;</mi><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><msub><mi>N</mi><mi>T</mi></msub></munderover><mi>diag</mi><mo>{</mo><msub><mi>x</mi><mi>i</mi></msub><mo>}</mo><mi>H</mi><mrow><mo>(</mo><msub><mi>n</mi><mi>p</mi></msub><mo>,</mo><mi>i</mi><mo>)</mo></mrow><mo>+</mo><mi>Z</mi><mrow><mo>(</mo><msub><mi>n</mi><mi>p</mi></msub><mo>)</mo></mrow></mrow></math> ]]></base:MathText>
+        </base:MathDetails>(公式2)</base:Paragraphs>
+      <base:Paragraphs id="p0043" num="0043">其中Y(n<base:Sub>p</base:Sub>)＝[Y(n<base:Sub>p</base:Sub>，1)，Y(n<base:Sub>p</base:Sub>，2)，...，(n<base:Sub>p</base:Sub>，N<base:Sub>b</base:Sub>)]<base:Sup>T</base:Sup>，</base:Paragraphs>
+      <base:Paragraphs id="p0044" num="0044">H(n<base:Sub>p</base:Sub>，i)表示第n<base:Sub>p</base:Sub>个导频符号处第i个天线/用户到该接收天线的信道频域衰落系数组成的向量，Z(n<base:Sub>p</base:Sub>)表示加性高斯白噪声。考虑到信道估计是对每个导频段单独进行的，因此可以忽略标号n<base:Sub>p</base:Sub>，公式2可写成</base:Paragraphs>
+      <base:Paragraphs id="p0045" num="0045">
+        <base:MathDetails num="0003">
+          <base:MathText><![CDATA[ <math><mrow><mi>Y</mi><mo>=</mo><munderover><mi>&Sigma;</mi><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><msub><mi>N</mi><mi>T</mi></msub></munderover><mi>diag</mi><mo>{</mo><msub><mi>x</mi><mi>i</mi></msub><mo>}</mo><msub><mi>H</mi><mi>i</mi></msub><mo>+</mo><mi>Z</mi></mrow></math> ]]></base:MathText>
+        </base:MathDetails>(公式3)</base:Paragraphs>
+      <base:Paragraphs id="p0046" num="0046">公式3表示出了接收信号，基于公式3可以进一步推导信道估计方法。</base:Paragraphs>
+      <base:Paragraphs id="p0047" num="0047">S202.接收端获取导频符号处在最小二乘意义上的信道参数</base:Paragraphs>
+      <base:Paragraphs id="p0048" num="0048">发送端可以将构造好的数据结构发送给接收端，这样，接收端可以通过接收信号估计导频符号处在最小二乘意义上的信道参数，这里的信道参数具体可以为导频所在符号的信道频域衰落系数，举例来说，若要估计第t个天线/用户的信道参数，可以根据公式3推导得出导频符号在最小二乘意义上的信道频域衰落系数：</base:Paragraphs>
+      <base:Paragraphs id="p0049" num="0049">
+        <base:MathDetails num="0004">
+          <base:MathText><![CDATA[ <math><mrow><msub><mover><mi>H</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>,</mo><mi>LS</mi></mrow></msub><mo>=</mo><mi>diag</mi><mo>{</mo><msubsup><mi>x</mi><mi>t</mi><mi>H</mi></msubsup><mo>}</mo><mi>Y</mi></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </base:Paragraphs>
+      <base:Paragraphs id="p0050" num="0050">
+        <base:MathDetails num="0005">
+          <base:MathText><![CDATA[ <math><mrow><mo>=</mo><msub><mi>H</mi><mi>t</mi></msub><mo>+</mo><munderover><mi>&Sigma;</mi><mrow><mi>i</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi>i</mi><mo>&NotEqual;</mo><mi>t</mi></mrow><msub><mi>N</mi><mi>T</mi></msub></munderover><mi>diag</mi><mo>{</mo><msubsup><mi>x</mi><mi>t</mi><mi>H</mi></msubsup><mo>}</mo><mi>diag</mi><mo>{</mo><msub><mi>x</mi><mi>i</mi></msub><mo>}</mo><msub><mi>H</mi><mi>i</mi></msub><mo>+</mo><mi>diag</mi><mo>{</mo><msubsup><mi>x</mi><mi>t</mi><mi>H</mi></msubsup><mo>}</mo><mi>Z</mi></mrow></math> ]]></base:MathText>
+        </base:MathDetails>(公式4)</base:Paragraphs>
+      <base:Paragraphs id="p0051" num="0051">
+        <base:MathDetails num="0006">
+          <base:MathText><![CDATA[ <math><mrow><mo>=</mo><msub><mi>H</mi><mi>t</mi></msub><mo>+</mo><munderover><mi>&Sigma;</mi><mrow><mi>i</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi>i</mi><mo>&NotEqual;</mo><mi>t</mi></mrow><msub><mi>N</mi><mi>T</mi></msub></munderover><msub><mi>W</mi><mrow><mi>i</mi><mo>-</mo><mi>t</mi></mrow></msub><msub><mi>H</mi><mi>i</mi></msub><mo>+</mo><mi>diag</mi><mo>{</mo><msubsup><mi>x</mi><mi>t</mi><mi>H</mi></msubsup><mo>}</mo><mi>Z</mi></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </base:Paragraphs>
+      <base:Paragraphs id="p0052" num="0052">其中，最小二乘意义上的信道频域衰落系数估计是指估计误差的平方和最小的信道参数估计值。此外，在另一个实施例中，也可以不取最小二乘意义上的信道参数，直接将导频符号的信道频域衰落系数变换至离散余弦变换域。</base:Paragraphs>
+      <base:Paragraphs id="p0053" num="0053">S203.将所述最小二乘意义上的信道参数变换至DCT域</base:Paragraphs>
+      <base:Paragraphs id="p0054" num="0054">具体来说，可以利用离散余弦变换将得到的信道频域衰落系数变换至离散余弦变换域，</base:Paragraphs>
+      <base:Paragraphs id="p0055" num="0055">
+        <base:MathDetails num="0007">
+          <base:MathText><![CDATA[ <math><mrow><msub><mover><mi>d</mi><mo>^</mo></mover><mi>t</mi></msub><mo>=</mo><msub><mi>C</mi><msub><mi>N</mi><mi>b</mi></msub></msub><msub><mover><mi>H</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>,</mo><mi>LS</mi></mrow></msub></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </base:Paragraphs>
+      <base:Paragraphs id="p0056" num="0056">1.<base:MathDetails num="0008"><base:MathText><![CDATA[ <math><mrow><mo>=</mo><msub><mi>d</mi><mi>t</mi></msub><mo>+</mo><msub><mi>C</mi><msub><mi>N</mi><mi>b</mi></msub></msub><munderover><mi>&Sigma;</mi><mrow><mi>i</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi>i</mi><mo>&NotEqual;</mo><mi>t</mi></mrow><msub><mi>N</mi><mi>T</mi></msub></munderover><msub><mi>W</mi><mrow><mi>i</mi><mo>-</mo><mi>t</mi></mrow></msub><msub><mi>H</mi><mi>i</mi></msub><mo>+</mo><msub><mi>C</mi><msub><mi>N</mi><mi>b</mi></msub></msub><mi>diag</mi><mo>{</mo><msubsup><mi>x</mi><mi>t</mi><mi>H</mi></msubsup><mo>}</mo><mi>Z</mi></mrow></math> ]]></base:MathText></base:MathDetails>(公式5)</base:Paragraphs>
+      <base:Paragraphs id="p0057" num="0057">其中d<base:Sub>t</base:Sub>是H<base:Sub>t</base:Sub>对应DCT域的信道参数，<base:Image he="57" wi="70" file="B2009101904290D0000066.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />是长度为N<base:Sub>b</base:Sub>的离散余弦变换矩阵，频域信道衰落系数经过DCT变换就可以得到DCT域信道参数。</base:Paragraphs>
+      <base:Paragraphs id="p0058" num="0058">在本发明的另一个实施例中，还可以根据天线/用户的类型采用不同的DCT矩阵，例如，</base:Paragraphs>
+      <base:Paragraphs id="p0059" num="0059">当为单天线/用户时，可以采用第II类离散余弦变换矩阵<base:Image he="75" wi="97" file="B2009101904290D0000067.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" /></base:Paragraphs>
+      <base:Paragraphs id="p0060" num="0060">
+        <base:MathDetails num="0009">
+          <base:MathText><![CDATA[ <math><mrow><msub><mrow><mo>[</mo><msubsup><mi>C</mi><msub><mi>N</mi><mi>b</mi></msub><mi>II</mi></msubsup><mo>]</mo></mrow><mrow><mi>k</mi><mo>,</mo><mi>l</mi></mrow></msub><mo>=</mo><msub><mi>w</mi><mi>k</mi></msub><mi>cos</mi><mfrac><mrow><mi>&pi;k</mi><mrow><mo>(</mo><mi>l</mi><mo>+</mo><mn>0.5</mn><mo>)</mo></mrow></mrow><msub><mi>N</mi><mi>b</mi></msub></mfrac></mrow></math> ]]></base:MathText>
+        </base:MathDetails>k，l＝0，...，N<base:Sub>b</base:Sub>-1</base:Paragraphs>
+      <base:Paragraphs id="p0061" num="0061">                                     (公式6)</base:Paragraphs>
+      <base:Paragraphs id="p0062" num="0062">
+        <base:MathDetails num="0010">
+          <base:MathText><![CDATA[ <math><mrow><msub><mi>w</mi><mi>k</mi></msub><mo>=</mo><mfenced open='{' close=''><mtable><mtr><mtd><mn>1</mn><mo>/</mo><msqrt><msub><mi>N</mi><mi>b</mi></msub></msqrt><mo>,</mo></mtd><mtd><mi>k</mi><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd><msqrt><mn>2</mn></msqrt><mo>/</mo><msqrt><msub><mi>N</mi><mi>b</mi></msub></msqrt><mo>,</mo></mtd><mtd><mi>k</mi><mo>&NotEqual;</mo><mn>0</mn></mtd></mtr></mtable></mfenced></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </base:Paragraphs>
+      <base:Paragraphs id="p0063" num="0063">此时，公式5可以写成：</base:Paragraphs>
+      <base:Paragraphs id="p0064" num="0064">
+        <base:MathDetails num="0011">
+          <base:MathText><![CDATA[ <math><mrow><msub><mover><mi>d</mi><mo>^</mo></mover><mn>1</mn></msub><mo>=</mo><msubsup><mi>C</mi><msub><mi>N</mi><mi>b</mi></msub><mi>II</mi></msubsup><msub><mover><mi>H</mi><mo>^</mo></mover><mrow><mn>1</mn><mo>,</mo><mi>LS</mi></mrow></msub></mrow></math> ]]></base:MathText>
+        </base:MathDetails>(公式7)</base:Paragraphs>
+      <base:Paragraphs id="p0065" num="0065">
+        <base:MathDetails num="0012">
+          <base:MathText><![CDATA[ <math><mrow><mo>=</mo><msub><mi>d</mi><mrow><mn>1</mn><mo>,</mo><mi>II</mi></mrow></msub><mo>+</mo><msubsup><mi>C</mi><msub><mi>N</mi><mi>b</mi></msub><mi>II</mi></msubsup><mi>diag</mi><mo>{</mo><msubsup><mi>x</mi><mn>1</mn><mi>H</mi></msubsup><mo>}</mo><mi>Z</mi></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </base:Paragraphs>
+      <base:Paragraphs id="p0066" num="0066">其中d<base:Sub>1，II</base:Sub>表示是H<base:Sub>1</base:Sub>在DCT II型变换域下的信道参数；特别的，当为两天线/用户(两天线或者两用户)时，本发明实施例中采用第I类离散余弦变换矩阵<base:Image he="75" wi="97" file="B2009101904290D0000071.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" /></base:Paragraphs>
+      <base:Paragraphs id="p0067" num="0067">
+        <base:MathDetails num="0013">
+          <base:MathText><![CDATA[ <math><mrow><msub><mrow><mo>[</mo><msubsup><mi>C</mi><msub><mi>N</mi><mi>b</mi></msub><mi>I</mi></msubsup><mo>]</mo></mrow><mrow><mi>k</mi><mo>,</mo><mi>l</mi></mrow></msub><mo>=</mo><msub><mi>w</mi><mi>l</mi></msub><mi>cos</mi><mfrac><mi>&pi;kl</mi><mrow><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn></mrow></mfrac></mrow></math> ]]></base:MathText>
+        </base:MathDetails>k，l＝0，...，N<base:Sub>b</base:Sub>-1</base:Paragraphs>
+      <base:Paragraphs id="p0068" num="0068">                            (公式8)</base:Paragraphs>
+      <base:Paragraphs id="p0069" num="0069">
+        <base:MathDetails num="0014">
+          <base:MathText><![CDATA[ <math><mrow><msub><mi>w</mi><mi>l</mi></msub><mo>=</mo><mfenced open='{' close=''><mtable><mtr><mtd><mn>1</mn><mo>/</mo><msqrt><mn>2</mn><mrow><mo>(</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn><mo>)</mo></mrow></msqrt><mo>,</mo></mtd><mtd><mi>l</mi><mo>=</mo><mn>0</mn><mo>,</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><msqrt><mn>2</mn></msqrt><mo>/</mo><msqrt><mrow><mo>(</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn><mo>)</mo></mrow></msqrt><mo>,</mo></mtd><mtd><mn>0</mn><mo>&lt;</mo><mi>l</mi><mo>&lt;</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn></mtd></mtr></mtable></mfenced></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </base:Paragraphs>
+      <base:Paragraphs id="p0070" num="0070">其中，<base:Image he="65" wi="70" file="B2009101904290D0000074.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />是长度为N<base:Sub>b</base:Sub>的第I类离散余弦变换矩阵，Nb为导频符号和数据符号在频域方向的个数，k，l，w为中间变量。</base:Paragraphs>
+      <base:Paragraphs id="p0071" num="0071">此时，公式5可以写成：</base:Paragraphs>
+      <base:Paragraphs id="p0072" num="0072">
+        <base:MathDetails num="0015">
+          <base:MathText><![CDATA[ <math><mrow><msub><mover><mi>d</mi><mo>^</mo></mover><mi>t</mi></msub><mo>=</mo><msubsup><mi>C</mi><msub><mi>N</mi><mi>b</mi></msub><mi>I</mi></msubsup><msub><mover><mi>H</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>,</mo><mi>LS</mi></mrow></msub></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </base:Paragraphs>
+      <base:Paragraphs id="p0073" num="0073">
+        <base:MathDetails num="0016">
+          <base:MathText><![CDATA[ <math><mrow><mo>=</mo><msub><mi>d</mi><mrow><mi>t</mi><mo>,</mo><mi>I</mi></mrow></msub><mo>+</mo><msubsup><mi>C</mi><msub><mi>N</mi><mi>b</mi></msub><mi>I</mi></msubsup><msub><mi>W</mi><mrow><msup><mi>t</mi><mo>&prime;</mo></msup><mo>-</mo><mi>t</mi></mrow></msub><msup><mrow><mo>(</mo><msubsup><mi>C</mi><msub><mi>N</mi><mi>b</mi></msub><mi>I</mi></msubsup><mo>)</mo></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><msubsup><mi>C</mi><msub><mi>N</mi><mi>b</mi></msub><mi>I</mi></msubsup><msub><mi>H</mi><msup><mi>t</mi><mo>&prime;</mo></msup></msub><mo>+</mo><msubsup><mi>C</mi><msub><mi>N</mi><mi>b</mi></msub><mi>I</mi></msubsup><mi>diag</mi><mo>{</mo><msubsup><mi>x</mi><mi>t</mi><mi>H</mi></msubsup><mo>}</mo><mi>Z</mi></mrow></math> ]]></base:MathText>
+        </base:MathDetails>(公式9)</base:Paragraphs>
+      <base:Paragraphs id="p0074" num="0074">
+        <base:MathDetails num="0017">
+          <base:MathText><![CDATA[ <math><mrow><mo>=</mo><msub><mi>d</mi><mrow><mi>t</mi><mo>,</mo><mi>I</mi></mrow></msub><mo>+</mo><msub><mi>Jd</mi><mrow><msup><mi>t</mi><mo>&prime;</mo></msup><mo>,</mo><mi>I</mi></mrow></msub><mo>+</mo><msubsup><mi>C</mi><msub><mi>N</mi><mi>b</mi></msub><mi>I</mi></msubsup><mi>diag</mi><mo>{</mo><msubsup><mi>x</mi><mi>t</mi><mi>H</mi></msubsup><mo>}</mo><mi>Z</mi></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </base:Paragraphs>
+      <base:Paragraphs id="p0075" num="0075">其中t，t′∈{1，2}且t≠t′，d<base:Sub>t，I</base:Sub>表示是H<base:Sub>t</base:Sub>在DCT I型变换域下的信道参数，J为反对角矩阵。</base:Paragraphs>
+      <base:Paragraphs id="p0076" num="0076">在本实施例中，由于对两天线/用户时采用第I类离散余弦变换矩阵<base:Image he="76" wi="100" file="B2009101904290D0000078.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />而不同发送天线/用户的导频序列之间满足循环移位的关系，因此有：</base:Paragraphs>
+      <base:Paragraphs id="p0077" num="0077">W<base:Sub>t ′-t</base:Sub>＝W<base:Sub>1</base:Sub>＝W<base:Sub>-1</base:Sub></base:Paragraphs>
+      <base:Paragraphs id="p0078" num="0078">其中，W可以表示不同天线之间的循环位移关系。</base:Paragraphs>
+      <base:Paragraphs id="p0079" num="0079">并且在DCT I型变换阵的作用下有：<base:Image he="85" wi="435" file="B2009101904290D0000079.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />其中J为N<base:Sub>b</base:Sub>×N<base:Sub>b</base:Sub>的反对角矩阵。</base:Paragraphs>
+      <base:Paragraphs id="p0080" num="0080">
+        <base:Image he="288" wi="384" file="B2009101904290D00000710.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+      </base:Paragraphs>
+      <base:Paragraphs id="p0081" num="0081">由于DCT变换具有能量集中的作用，经过DCT变换之后，d<base:Sub>t，I</base:Sub>的能量集中在该矢量的前半部分，后半部分全为0，因此从公式中可以看出，<base:Image he="64" wi="38" file="B2009101904290D00000711.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />将天线/用户t在DCT I型变换域下的信道频域衰落系数与天线/用户t′完全分离，消除了天线/用户之间的干扰。</base:Paragraphs>
+      <base:Paragraphs id="p0082" num="0082">S204.对变换后的信道参数进行滤波</base:Paragraphs>
+      <base:Paragraphs id="p0083" num="0083">具体来说，可以在DCT域上对信道参数进行单点滤波：</base:Paragraphs>
+      <base:Paragraphs id="p0084" num="0084">
+        <base:MathDetails num="0018">
+          <base:MathText><![CDATA[ <math><mrow><msub><mover><mi>d</mi><mo>~</mo></mover><mi>t</mi></msub><mo>=</mo><mi>&Gamma;&Omega;</mi><msub><mover><mi>d</mi><mo>^</mo></mover><mi>t</mi></msub></mrow></math> ]]></base:MathText>
+        </base:MathDetails>(公式10)</base:Paragraphs>
+      <base:Paragraphs id="p0085" num="0085">其中Ω为N<base:Sub>b</base:Sub>×N<base:Sub>b</base:Sub>的映射矩阵，<base:Image he="159" wi="372" file="B2009101904290D0000082.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />L＝N<base:Sub>b</base:Sub>/N<base:Sub>T</base:Sub>，Γ为单点滤波矩阵，它是一个对角阵；</base:Paragraphs>
+      <base:Paragraphs id="p0086" num="0086">本实施例中，还可以根据不同情况选择不同的滤波矩阵：</base:Paragraphs>
+      <base:Paragraphs id="p0087" num="0087">如果信道频域衰落系数的统计信息已知，Γ的第k个对角元素可表示成：</base:Paragraphs>
+      <base:Paragraphs id="p0088" num="0088">
+        <base:MathDetails num="0019">
+          <base:MathText><![CDATA[ <math><mrow><msub><mi>&Gamma;</mi><mrow><mi>k</mi><mo>,</mo><mi>k</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>E</mi><mo>{</mo><msup><mrow><mo>|</mo><msub><mover><mi>d</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>,</mo><mi>k</mi></mrow></msub><mo>|</mo></mrow><mn>2</mn></msup><mo>}</mo><mo>-</mo><msub><munder><mi>d</mi><mo>&OverBar;</mo></munder><mi>k</mi></msub><msubsup><mi>&sigma;</mi><mi>z</mi><mn>2</mn></msubsup></mrow><mrow><mi>E</mi><mo>{</mo><msup><mrow><mo>|</mo><msub><mover><mi>d</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>,</mo><mi>k</mi></mrow></msub><mo>|</mo></mrow><mn>2</mn></msup><mo>}</mo></mrow></mfrac></mrow></math> ]]></base:MathText>
+        </base:MathDetails>(公式11)</base:Paragraphs>
+      <base:Paragraphs id="p0089" num="0089">其中<base:Image he="66" wi="65" file="B2009101904290D0000084.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />是向量<base:Image he="62" wi="38" file="B2009101904290D0000085.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />的第k个元素，<base:Image he="92" wi="511" file="B2009101904290D0000086.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" /><base:Underline>d</base:Underline><base:Sub>k</base:Sub>是向量<base:Underline>d</base:Underline>的第k个元素，<base:Image he="58" wi="51" file="B2009101904290D0000087.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />是噪声方差。</base:Paragraphs>
+      <base:Paragraphs id="p0090" num="0090">如果信道频域衰落系数的统计信息未知，Γ可表示成：</base:Paragraphs>
+      <base:Paragraphs id="p0091" num="0091">
+        <base:MathDetails num="0020">
+          <base:MathText><![CDATA[ <math><mrow><mi>&Gamma;</mi><mo>=</mo><mfenced open='[' close=']'><mtable><mtr><mtd><msub><mi>I</mi><msup><mi>L</mi><mo>&prime;</mo></msup></msub></mtd><mtd></mtd></mtr><mtr><mtd></mtd><mtd><msub><mi>O</mi><mrow><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><msup><mi>L</mi><mo>&prime;</mo></msup></mrow></msub></mtd></mtr></mtable></mfenced></mrow></math> ]]></base:MathText>
+        </base:MathDetails>(公式12)</base:Paragraphs>
+      <base:Paragraphs id="p0092" num="0092">其中L′＝βN<base:Sub>b</base:Sub>，<base:Image he="120" wi="229" file="B2009101904290D0000089.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" /></base:Paragraphs>
+      <base:Paragraphs id="p0093" num="0093">通过单点滤波可以去除变换后信号中的噪声。当然，本发明实施例中的滤波方式并不局限于单点滤波，也可以采取其他类型的滤波方式，例如，还可以采用如公式13所示的基于MMSE(最小均方误差)准则的滤波，与单点滤波相对应，为多点滤波，滤波矩阵包括矩阵的求逆。</base:Paragraphs>
+      <base:Paragraphs id="p0094" num="0094">
+        <base:MathDetails num="0021">
+          <base:MathText><![CDATA[ <math><mrow><msub><mover><mi>d</mi><mo>~</mo></mover><mi>t</mi></msub><mo>=</mo><mi>E</mi><mo>{</mo><msub><mover><mi>d</mi><mo>^</mo></mover><mi>t</mi></msub><msubsup><mover><mi>d</mi><mo>^</mo></mover><mi>t</mi><mi>H</mi></msubsup><mo>}</mo><msup><mrow><mo>[</mo><mi>&Omega;&Omega;E</mi><mo>{</mo><msub><mover><mi>d</mi><mo>^</mo></mover><mi>t</mi></msub><msubsup><mover><mi>d</mi><mo>^</mo></mover><mi>t</mi><mi>H</mi></msubsup><mo>}</mo><mo>+</mo><msubsup><mi>&sigma;</mi><mi>z</mi><mn>2</mn></msubsup><msub><mi>I</mi><msub><mi>N</mi><mi>b</mi></msub></msub><mo>]</mo></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi>&Omega;</mi><msub><mover><mi>d</mi><mo>^</mo></mover><mi>t</mi></msub></mrow></math> ]]></base:MathText>
+        </base:MathDetails>(公式13)</base:Paragraphs>
+      <base:Paragraphs id="p0095" num="0095">S205.对滤波后的信号进行IDCT，还原出导频符号处的信道参数</base:Paragraphs>
+      <base:Paragraphs id="p0096" num="0096">具体的，可以利用逆离散余弦变换将公式10中滤波后的信号变换至频域，还原出导频符号处的信道频域衰落系数：</base:Paragraphs>
+      <base:Paragraphs id="p0097" num="0097">
+        <base:MathDetails num="0022">
+          <base:MathText><![CDATA[ <math><mrow><msub><mover><mi>H</mi><mo>^</mo></mover><mi>t</mi></msub><mo>=</mo><msub><munder><mi>C</mi><mo>&OverBar;</mo></munder><msub><mi>N</mi><mi>b</mi></msub></msub><msub><mover><mi>d</mi><mo>~</mo></mover><mi>t</mi></msub></mrow></math> ]]></base:MathText>
+        </base:MathDetails>(公式14)</base:Paragraphs>
+      <base:Paragraphs id="p0098" num="0098">其中<base:Image he="57" wi="70" file="B2009101904290D0000092.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />是长度为N<base:Sub>b</base:Sub>的逆离散余弦变换矩阵，此时，DCT域信道参数经过IDCT变换就可以还原得到频域信道参数。在本实施例中，与S203中保持一致地按照天线/用户的类型采用不同的IDCT矩阵，例如，</base:Paragraphs>
+      <base:Paragraphs id="p0099" num="0099">单天线/用户时采用第II类逆离散余弦变换的逆变换阵<base:Image he="75" wi="97" file="B2009101904290D0000093.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" /></base:Paragraphs>
+      <base:Paragraphs id="p0100" num="0100">
+        <base:MathDetails num="0023">
+          <base:MathText><![CDATA[ <math><mrow><msub><mrow><mo>[</mo><msubsup><munder><mi>C</mi><mo>&OverBar;</mo></munder><msub><mi>N</mi><mi>b</mi></msub><mi>II</mi></msubsup><mo>]</mo></mrow><mrow><mi>k</mi><mo>,</mo><mi>l</mi></mrow></msub><mo>=</mo><msub><mi>w</mi><mi>l</mi></msub><mi>cos</mi><mfrac><mrow><mi>&pi;l</mi><mrow><mo>(</mo><mi>k</mi><mo>+</mo><mn>0.5</mn><mo>)</mo></mrow></mrow><msub><mi>N</mi><mi>b</mi></msub></mfrac></mrow></math> ]]></base:MathText>
+        </base:MathDetails>k，l＝0，...，N<base:Sub>b</base:Sub>-1</base:Paragraphs>
+      <base:Paragraphs id="p0101" num="0101">                              (公式15)</base:Paragraphs>
+      <base:Paragraphs id="p0102" num="0102">
+        <base:MathDetails num="0024">
+          <base:MathText><![CDATA[ <math><mrow><msub><mi>w</mi><mi>l</mi></msub><mo>=</mo><mfenced open='{' close=''><mtable><mtr><mtd><mn>1</mn><mo>/</mo><msqrt><msub><mi>N</mi><mi>b</mi></msub></msqrt><mo>,</mo></mtd><mtd><mi>l</mi><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd><msqrt><mn>2</mn></msqrt><mo>/</mo><msqrt><msub><mi>N</mi><mi>b</mi></msub></msqrt><mo>,</mo></mtd><mtd><mi>l</mi><mo>&NotEqual;</mo><mn>0</mn></mtd></mtr></mtable></mfenced></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </base:Paragraphs>
+      <base:Paragraphs id="p0103" num="0103">特别的，当为两天线/用户时，本发明实施例中采用第I类逆离散余弦变换矩阵<base:Image he="66" wi="96" file="B2009101904290D0000096.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" /></base:Paragraphs>
+      <base:Paragraphs id="p0104" num="0104">
+        <base:MathDetails num="0025">
+          <base:MathText><![CDATA[ <math><mrow><msub><mrow><mo>[</mo><msubsup><munder><mi>C</mi><mo>&OverBar;</mo></munder><msub><mi>N</mi><mi>b</mi></msub><mi>I</mi></msubsup><mo>]</mo></mrow><mrow><mi>k</mi><mo>,</mo><mi>l</mi></mrow></msub><mo>=</mo><msub><mi>w</mi><mi>l</mi></msub><mi>cos</mi><mfrac><mi>&pi;kl</mi><mrow><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn></mrow></mfrac></mrow></math> ]]></base:MathText>
+        </base:MathDetails>k，l＝0，...，N<base:Sub>b</base:Sub>-1</base:Paragraphs>
+      <base:Paragraphs id="p0105" num="0105">                               (公式16)</base:Paragraphs>
+      <base:Paragraphs id="p0106" num="0106">
+        <base:MathDetails num="0026">
+          <base:MathText><![CDATA[ <math><mrow><msub><mi>w</mi><mi>l</mi></msub><mo>=</mo><mfenced open='{' close=''><mtable><mtr><mtd><mn>1</mn><mo>/</mo><msqrt><mn>2</mn><mrow><mo>(</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn><mo>)</mo></mrow></msqrt><mo>,</mo></mtd><mtd><mi>l</mi><mo>=</mo><mn>0</mn><mo>,</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><msqrt><mn>2</mn></msqrt><mo>/</mo><msqrt><mrow><mo>(</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn><mo>)</mo></mrow></msqrt><mo>,</mo></mtd><mtd><mn>0</mn><mo>&lt;</mo><mi>l</mi><mo>&lt;</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn></mtd></mtr></mtable></mfenced></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </base:Paragraphs>
+      <base:Paragraphs id="p0107" num="0107">S206.根据S205中得到的导频符号上的信道参数，获取数据符号处的信道参数</base:Paragraphs>
+      <base:Paragraphs id="p0108" num="0108">举例来说，本步骤中可以通过线性插值的方式来获取数据符号处的信道参数：</base:Paragraphs>
+      <base:Paragraphs id="p0109" num="0109">假设两个相邻导频在一帧中处于第n<base:Sub>1</base:Sub>和n<base:Sub>2</base:Sub>个符号，分别用<base:Image he="63" wi="114" file="B2009101904290D0000099.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />和<base:Image he="64" wi="119" file="B2009101904290D00000910.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />表示，那么第n个数据符号的信道频域衰落系数估计可以表示为：</base:Paragraphs>
+      <base:Paragraphs id="p0110" num="0110">
+        <base:MathDetails num="0027">
+          <base:MathText><![CDATA[ <math><mrow><mover><mi>H</mi><mo>^</mo></mover><mrow><mo>(</mo><mi>n</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mover><mi>H</mi><mo>^</mo></mover><mrow><mo>(</mo><msub><mi>n</mi><mn>2</mn></msub><mo>)</mo></mrow><mo>-</mo><mover><mi>H</mi><mo>^</mo></mover><mrow><mo>(</mo><msub><mi>n</mi><mn>1</mn></msub><mo>)</mo></mrow></mrow><mrow><msub><mi>n</mi><mn>2</mn></msub><mo>-</mo><msub><mi>n</mi><mn>1</mn></msub></mrow></mfrac><mrow><mo>(</mo><msub><mi>n</mi><mn>1</mn></msub><mo>-</mo><mi>n</mi><mo>)</mo></mrow><mo>+</mo><mover><mi>H</mi><mo>^</mo></mover><mrow><mo>(</mo><msub><mi>n</mi><mn>1</mn></msub><mo>)</mo></mrow></mrow></math> ]]></base:MathText>
+        </base:MathDetails>(公式17)</base:Paragraphs>
+      <base:Paragraphs id="p0111" num="0111">此外，根据导频符号上的信道频域衰落系数获取数据符号处的信道频域衰落系数还可以有其他的实现方式，例如，在本发明另一个实施例中，还可以通过均值替代的方式来获取。</base:Paragraphs>
+      <base:Paragraphs id="p0112" num="0112">在发明的另一实施例中，获取了数据符号处的信道频域衰落系数之后，还可以据此对数据符号进行相干检测等操作。</base:Paragraphs>
+      <base:Paragraphs id="p0113" num="0113">参考图3，本发明另一实施例提供了一种信道估计装置，所述装置包括：</base:Paragraphs>
+      <base:Paragraphs id="p0114" num="0114">模块1，用于获取导频符号DCT域的信道参数；</base:Paragraphs>
+      <base:Paragraphs id="p0115" num="0115">模块2，用于对所述DCT域的信道参数进行滤波；</base:Paragraphs>
+      <base:Paragraphs id="p0116" num="0116">模块3，用于对所述滤波后的信道参数进行IDCT以获取导频符号处的信道参数；</base:Paragraphs>
+      <base:Paragraphs id="p0117" num="0117">模块4，用于根据所述导频符号处的信道参数，获取数据符号处的信道参数。</base:Paragraphs>
+      <base:Paragraphs id="p0118" num="0118">在另一个实施例中，所述模块4还可以包括子模块41，用于根据所述导频符号处的信道参数，进行线性插值处理，从而获取数据符号处的信道参数。</base:Paragraphs>
+      <base:Paragraphs id="p0119" num="0119">由于DCT变换具有能量集中的作用，经过DCT变换之后的信道频域衰落系数能量集中在该矢量的前半部分，因此利用本实施例提供的装置进行信道估计可以避免在信噪比较高的环境下由于能量不集中所带来的平底效应，从而改善了信道估计性能。</base:Paragraphs>
+      <base:Paragraphs id="p0120" num="0120">本实施例提供的装置，举例来说，可以运用在空分/正交频分多址系统中。</base:Paragraphs>
+      <base:Paragraphs id="p0121" num="0121">参考图4，本发明另一实施例提供了一种信道估计装置，所述装置包括：</base:Paragraphs>
+      <base:Paragraphs id="p0122" num="0122">模块11，用于构造发送端的时域、频域二维导频数据结构；</base:Paragraphs>
+      <base:Paragraphs id="p0123" num="0123">模块12，用于获取导频符号处在最小二乘意义上的信道参数；</base:Paragraphs>
+      <base:Paragraphs id="p0124" num="0124">模块13，用于将信道参数变换至DCT域；</base:Paragraphs>
+      <base:Paragraphs id="p0125" num="0125">模块14，用于对变换后的信道参数进行滤波；</base:Paragraphs>
+      <base:Paragraphs id="p0126" num="0126">模块15，用于对滤波后的信号进行IDCT，还原出导频符号处的信道参数；</base:Paragraphs>
+      <base:Paragraphs id="p0127" num="0127">模块16，用于根据模块15得到的导频符号上的信道参数，获取数据符号处的信道参数。</base:Paragraphs>
+      <base:Paragraphs id="p0128" num="0128">本实施例提供的装置，举例来说，可以运用在空分/正交频分多址系统中。</base:Paragraphs>
+      <base:Paragraphs id="p0129" num="0129">参考图5，本发明另一实施例还提供了一种相干检测系统，所述系统包括一个信道估计装置，所述信道估计装置具体包括：</base:Paragraphs>
+      <base:Paragraphs id="p0130" num="0130">模块21，用于获取导频符号DCT域的信道参数；</base:Paragraphs>
+      <base:Paragraphs id="p0131" num="0131">模块22，用于对所述DCT域的信道参数进行滤波；</base:Paragraphs>
+      <base:Paragraphs id="p0132" num="0132">模块23，用于对所述滤波后的信道参数进行IDCT以获取导频符号处的信道参数；</base:Paragraphs>
+      <base:Paragraphs id="p0133" num="0133">模块24，用于根据所述导频符号处的信道参数，获取数据符号处的信道参数。</base:Paragraphs>
+      <base:Paragraphs id="p0134" num="0134">本实施例提供的系统，举例来说，可以运用在空分/正交频分多址系统中。</base:Paragraphs>
+      <base:Paragraphs id="p0135" num="0135">本领域普通技术人员可以理解实现上述实施例方法中的全部或部分步骤可以通过程序来指令相关的硬件来完成，所述的程序可以存储于一计算机可读存储介质中，该程序在执行时，可以包括如下步骤：获取导频符号在DCT域的信道频域衰落系数；对所述DCT域的信道频域衰落系数进行滤波；对所述滤波后的信道频域衰落系数进行IDCT以获取导频符号处的信道频域衰落系数；根据所述导频符号处的信道频域衰落系数，获取数据符号处的信道频域衰落系数。所述存储介质，如：ROM/RAM、磁碟、光盘等。</base:Paragraphs>
+      <base:Paragraphs id="p0136" num="0136">以上实施例仅用以说明本发明的技术方案，而非对本发明作限制性理解。尽管参照上述较佳实施例对本发明进行了详细说明，本领域的普通技术人员应当理解：其依然可以对本发明的技术方案进行修改或者等同替换，而这种修改或者等同替换并不脱离本发明技术方案的精神和范围。</base:Paragraphs>
+    </business:InventionMode>
+  </business:Description>
+  <business:Drawings lang="zh" sourceDB="national office">
+    <base:Figure id="f0001" num="0001" figureLabels="图1">
+      <base:Image id="ifi0001" he="700" wi="583" file="H2009101904290E0000011.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0002" num="0002" figureLabels="图2">
+      <base:Image id="ifi0002" he="700" wi="466" file="H2009101904290E0000021.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0003" num="0003" figureLabels="图3">
+      <base:Image id="ifi0003" he="561" wi="700" file="H2009101904290E0000031.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0004" num="0004" figureLabels="图4">
+      <base:Image id="ifi0004" he="508" wi="700" file="H2009101904290E0000032.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0005" num="0005" figureLabels="图5">
+      <base:Image id="ifi0005" he="482" wi="700" file="H2009101904290E0000041.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="zh" dataFormat="original" sourceDB="national office" creator="03">
+    <business:Claim id="cl0001" num="0001">
+      <business:ClaimText>1.一种信道估计方法，其特征在于，包括：</business:ClaimText>
+      <business:ClaimText>获取导频符号处在DCT域的信道参数；</business:ClaimText>
+      <business:ClaimText>对所述DCT域的信道参数进行滤波；</business:ClaimText>
+      <business:ClaimText>对所述滤波后的信道参数进行IDCT变换，以获取导频符号处的信道参数；</business:ClaimText>
+      <business:ClaimText>根据所述导频符号处的信道参数，获取数据符号处的信道参数。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0002" num="0002">
+      <business:ClaimText>2.如权利要求1所述的方法，其特征在于，所述获取导频符号处在DCT域的信道参数具体包括：将所述导频符号的信道频域衰落系数变换至DCT域。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0003" num="0003">
+      <business:ClaimText>3.如权利要求1所述的方法，其特征在于，所述获取导频符号处在DCT域的信道参数具体包括：</business:ClaimText>
+      <business:ClaimText>获取导频符号处在最小二乘意义上的信道频域衰落系数；</business:ClaimText>
+      <business:ClaimText>将所述导频符号处在最小二乘意义上的信道频域衰落系数变换至DCT域。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0004" num="0004">
+      <business:ClaimText>4.如权利要求2或3所述的方法，其特征在于，所述将信道频域衰落系数变换至DCT域具体包括：</business:ClaimText>
+      <business:ClaimText>当为两天线或者两用户时，采用第I类离散余弦变换矩阵</business:ClaimText>
+      <business:ClaimText>
+        <base:MathDetails num="0001">
+          <base:MathText><![CDATA[ <math><mrow><msub><mrow><mo>[</mo><msubsup><mi>C</mi><msub><mi>N</mi><mi>b</mi></msub><mi>I</mi></msubsup><mo>]</mo></mrow><mrow><mi>k</mi><mo>,</mo><mi>l</mi></mrow></msub><mo>=</mo><msub><mi>w</mi><mi>l</mi></msub><mi>cos</mi><mfrac><mi>&pi;kl</mi><mrow><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn></mrow></mfrac></mrow></math> ]]></base:MathText>
+        </base:MathDetails>k，l＝0，...，N<base:Sub>b</base:Sub>-1</business:ClaimText>
+      <business:ClaimText>
+        <base:MathDetails num="0002">
+          <base:MathText><![CDATA[ <math><mrow><msub><mi>w</mi><mi>l</mi></msub><mo>=</mo><mfenced open='{' close=''><mtable><mtr><mtd><mn>1</mn><mo>/</mo><msqrt><mn>2</mn><mrow><mo>(</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn><mo>)</mo></mrow></msqrt><mo>,</mo></mtd><mtd><mi>l</mi><mo>=</mo><mn>0</mn><mo>,</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><msqrt><mn>2</mn></msqrt><mo>/</mo><msqrt><mrow><mo>(</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn><mo>)</mo></mrow></msqrt><mo>,</mo></mtd><mtd><mn>0</mn><mo>&lt;</mo><mi>l</mi><mo>&lt;</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn></mtd></mtr></mtable></mfenced></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </business:ClaimText>
+      <business:ClaimText>其中，<base:Image id="ifm0003" he="65" wi="70" file="F2009101904290C0000013.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />是长度为N<base:Sub>b</base:Sub>的第I类离散余弦变换矩阵，N<base:Sub>b</base:Sub>为导频符号和数据符号在频域方向的个数，k，l，w为中间变量；变换后的信道参数为：</business:ClaimText>
+      <business:ClaimText>
+        <base:MathDetails num="0003">
+          <base:MathText><![CDATA[ <math><mrow><msub><mover><mi>d</mi><mo>^</mo></mover><mi>t</mi></msub><mo>=</mo><msubsup><mi>C</mi><mi>Nb</mi><mi>I</mi></msubsup><msub><mover><mi>H</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>,</mo><mi>LS</mi></mrow></msub></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </business:ClaimText>
+      <business:ClaimText>
+        <base:MathDetails num="0004">
+          <base:MathText><![CDATA[ <math><mrow><mo>=</mo><msub><mi>d</mi><mrow><mi>t</mi><mo>,</mo><mi>I</mi></mrow></msub><mo>+</mo><msubsup><mi>C</mi><mi>Nb</mi><mi>I</mi></msubsup><msub><mi>W</mi><mrow><msup><mi>t</mi><mo>&prime;</mo></msup><mo>-</mo><mi>t</mi></mrow></msub><msup><mrow><mo>(</mo><msubsup><mi>C</mi><mi>Nb</mi><mi>I</mi></msubsup><mo>)</mo></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup><msubsup><mi>C</mi><mi>Nb</mi><mi>I</mi></msubsup><msub><mi>H</mi><msup><mi>t</mi><mo>&prime;</mo></msup></msub><mo>+</mo><msubsup><mi>C</mi><mi>Nb</mi><mi>I</mi></msubsup><mi>diag</mi><mo>{</mo><msubsup><mi>x</mi><mi>t</mi><mi>H</mi></msubsup><mo>}</mo><mi>Z</mi></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </business:ClaimText>
+      <business:ClaimText>
+        <base:MathDetails num="0005">
+          <base:MathText><![CDATA[ <math><mrow><mo>=</mo><msub><mi>d</mi><mrow><mi>t</mi><mo>,</mo><mi>I</mi></mrow></msub><mo>+</mo><msub><mi>Jd</mi><mrow><msup><mi>t</mi><mo>&prime;</mo></msup><mo>,</mo><mi>I</mi></mrow></msub><mo>+</mo><msubsup><mi>C</mi><mi>Nb</mi><mi>I</mi></msubsup><mi>diag</mi><mo>{</mo><msubsup><mi>x</mi><mi>t</mi><mi>H</mi></msubsup><mo>}</mo><mi>Z</mi></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </business:ClaimText>
+      <business:ClaimText>其中，t，t′∈{1，2}且t≠t′，d<base:Sub>t，I</base:Sub>表示是H<base:Sub>t</base:Sub>在第I类离散余弦变换矩阵下的信道参数，diag{·}为以括号内的矢量为主对角元素的对角矩阵，J为反对角矩阵，H表示所述天线/用户到该接收天线的信道频域衰落系数组成的向量。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0005" num="0005">
+      <business:ClaimText>5.如权利要求1至3任意一项所述的方法，其特征在于，所述方法还包括：构造发送端的时域、频域二维导频数据结构。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0006" num="0006">
+      <business:ClaimText>6.如权利要求2至3任意一项所述的方法，其特征在于，所述对所述DCT域的信道参数进行滤波具体包括，对DCT域上的信道参数进行单点滤波：<base:Image id="ifm0007" he="64" wi="232" file="F2009101904290C0000021.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />其中Ω为N<base:Sub>b</base:Sub>×N<base:Sub>b</base:Sub>的映射矩阵，N<base:Sub>b</base:Sub>为导频符号和数据符号在频域方向的个数，Γ为单点滤波矩阵。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0007" num="0007">
+      <business:ClaimText>7.如权利要求6所述的方法，其特征在于，如果所述DCT域上的信道参数的统计信息已知，所述单点滤波矩阵Γ的第k个对角元素表示成：</business:ClaimText>
+      <business:ClaimText>
+        <base:MathDetails num="0006">
+          <base:MathText><![CDATA[ <math><mrow><msub><mi>&Gamma;</mi><mrow><mi>k</mi><mo>,</mo><mi>k</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>E</mi><mo>{</mo><msup><mrow><mo>|</mo><msub><mover><mi>d</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>,</mo><mi>k</mi></mrow></msub><mo>|</mo></mrow><mn>2</mn></msup><mo>}</mo><mo>-</mo><msub><munder><mi>d</mi><mo>&OverBar;</mo></munder><mi>k</mi></msub><msubsup><mi>&sigma;</mi><mi>z</mi><mn>2</mn></msubsup></mrow><mrow><mi>E</mi><mo>{</mo><msup><mrow><mo>|</mo><msub><mover><mi>d</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>,</mo><mi>k</mi></mrow></msub><mo>|</mo></mrow><mn>2</mn></msup><mo>}</mo></mrow></mfrac></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </business:ClaimText>
+      <business:ClaimText>其中<base:Image id="ifm0009" he="67" wi="64" file="F2009101904290C0000023.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />是向量<base:Image id="ifm0010" he="64" wi="39" file="F2009101904290C0000024.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />的第k个元素，<base:Image id="ifm0011" he="92" wi="506" file="F2009101904290C0000025.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" /><base:Underline>d</base:Underline><base:Sub>k</base:Sub>是向量<base:Underline>d</base:Underline>的第k个元素，<base:Image id="ifm0012" he="58" wi="50" file="F2009101904290C0000026.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" />是噪声方差；</business:ClaimText>
+      <business:ClaimText>如果所述DCT域上的信道参数的统计信息未知，所述Γ表示成：</business:ClaimText>
+      <business:ClaimText>
+        <base:MathDetails num="0007">
+          <base:MathText><![CDATA[ <math><mrow><mi>&Gamma;</mi><mo>=</mo><mfenced open='[' close=']'><mtable><mtr><mtd><msub><mi>I</mi><msup><mi>L</mi><mo>&prime;</mo></msup></msub></mtd><mtd></mtd></mtr><mtr><mtd></mtd><mtd><msub><mi>O</mi><mrow><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><msup><mi>L</mi><mo>&prime;</mo></msup></mrow></msub></mtd></mtr></mtable></mfenced></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </business:ClaimText>
+      <business:ClaimText>其中L′＝βN<base:Sub>b</base:Sub>，<base:Image id="ifm0014" he="120" wi="228" file="F2009101904290C0000028.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="yes" /></business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0008" num="0008">
+      <business:ClaimText>8.如权利要求4所述的方法，其特征在于，所述对所述滤波后的信道参数进行IDCT变换具体包括，当为两天线/用户时采用第I类逆离散余弦变换矩阵</business:ClaimText>
+      <business:ClaimText>
+        <base:MathDetails num="0008">
+          <base:MathText><![CDATA[ <math><mrow><msub><mrow><mo>[</mo><msubsup><munder><mi>C</mi><mo>&OverBar;</mo></munder><msub><mi>N</mi><mi>b</mi></msub><mi>I</mi></msubsup><mo>]</mo></mrow><mrow><mi>k</mi><mo>,</mo><mi>l</mi></mrow></msub><mo>=</mo><msub><mi>w</mi><mi>l</mi></msub><mi>cos</mi><mfrac><mi>&pi;kl</mi><mrow><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn></mrow></mfrac></mrow></math> ]]></base:MathText>
+        </base:MathDetails>k，l＝0，...，N<base:Sub>b</base:Sub>-1</business:ClaimText>
+      <business:ClaimText>
+        <base:MathDetails num="0009">
+          <base:MathText><![CDATA[ <math><mrow><msub><mi>w</mi><mi>l</mi></msub><mo>=</mo><mfenced open='{' close=''><mtable><mtr><mtd><mn>1</mn><mo>/</mo><msqrt><mn>2</mn><mrow><mo>(</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn><mo>)</mo></mrow></msqrt><mo>,</mo></mtd><mtd><mi>l</mi><mo>=</mo><mn>0</mn><mo>,</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><msqrt><mn>2</mn></msqrt><mo>/</mo><msqrt><mrow><mo>(</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn><mo>)</mo></mrow></msqrt><mo>,</mo></mtd><mtd><mn>0</mn><mo>&lt;</mo><mi>l</mi><mo>&lt;</mo><msub><mi>N</mi><mi>b</mi></msub><mo>-</mo><mn>1</mn></mtd></mtr></mtable></mfenced></mrow></math> ]]></base:MathText>
+        </base:MathDetails>
+      </business:ClaimText>
+      <business:ClaimText>对所述滤波后的信道参数进行IDCT变换。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0009" num="0009">
+      <business:ClaimText>9.如权利要求1、2、3、8任意一项所述的方法，其特征在于，所述根据所述导频符号处的信道参数，获取数据符号处的信道参数具体包括：根据所述导频符号处的信道频域衰落系数，利用线性插值的方式，获取数据符号处的信道频域衰落系数。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0010" num="0010">
+      <business:ClaimText>10.如权利要求1、2、3、8任意一项所述的方法，其特征在于所述方法还包括，根据获取的数据符号处的信道参数进行相干检测。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0011" num="0011">
+      <business:ClaimText>11.一种信道估计装置，其特征在于，包括：</business:ClaimText>
+      <business:ClaimText>模块1，用于获取导频符号DCT域的信道参数；</business:ClaimText>
+      <business:ClaimText>模块2，用于对所述DCT域的信道参数进行滤波；</business:ClaimText>
+      <business:ClaimText>模块3，用于对所述滤波后的信道参数进行IDCT以获取导频符号处的信道参数；</business:ClaimText>
+      <business:ClaimText>模块4，用于根据所述导频符号处的信道参数，获取数据符号处的信道参数。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0012" num="0012">
+      <business:ClaimText>12.如权利要求11所述的装置，其特征在于，所述模块4包括子模块41，用于根据导频符号处的信道频域衰落系数，进行线性插值处理，从而获取数据符号处的信道频域衰落系数。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0013" num="0013">
+      <business:ClaimText>13.如权利要求11或12所述的装置，其特征在于，所述装置使用在空分/正交频分多址系统中。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0014" num="0014">
+      <business:ClaimText>14.一种相干检测系统，其特征在于，包括如权利要求11-12任意一项所述的信道估计装置。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

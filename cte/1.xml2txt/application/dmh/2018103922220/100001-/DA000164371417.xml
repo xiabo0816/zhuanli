@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cn-application-body SYSTEM "/dtdandxsl/cn-application-body-20080416.dtd"><?xml-stylesheet type="text/xsl" href="/dtdandxsl/showxml.xsl"?><cn-application-body lang="zh" country="CN">
+	<cn-claims>
+			<claim id="cl001" num="1">
+<claim-text>一种血液灌流器的密封检测装置，其特征在于，包括内包装袋(3)和湿度卡(2)；<br/>
+所述内包装袋(3)内放置血液灌流器(1)，所述内包装袋(3)内充正压气体，所述湿度卡<br/>
+(2)嵌入内包装袋(3)表面或者放置在内包装袋(3)内，用于检测内包装袋(3)内的湿<br/>
+度。<br/>
+</claim-text>
+			</claim>
+			<claim id="cl002" num="2">
+<claim-text>根据权利要求1所述的血液灌流器的密封检测装置，其特征在于，所述内包装袋(3)<br/>
+材料为湿气高阻隔聚合物薄膜或湿气高阻隔聚合物多层复合薄膜或含Al膜层的聚合物复合<br/>
+膜或表面蒸镀氧化硅的聚合物复合薄膜或化学气相沉积氧化硅的聚合物复合薄膜。<br/>
+</claim-text>
+			</claim>
+			<claim id="cl003" num="3">
+<claim-text>根据权利要求1所述的血液灌流器的密封检测装置，其特征在于，所述内包装袋(3)<br/>
+内正压充气压力为116kPa～130kPa；所述内包装袋(3)承受内压力大于等于132kPa。<br/>
+</claim-text>
+			</claim>
+			<claim id="cl004" num="4">
+<claim-text>根据权利要求1所述的血液灌流器的密封检测装置，其特征在于，所述湿度卡(2)<br/>
+为无钴相对湿度卡；所述无钴相对湿度卡为多点湿度卡，所述多点湿度卡显示值覆蓋范围是：<br/>
+60％～100％，至少为70％～90％；显示值间隔为10％。<br/>
+</claim-text>
+			</claim>
+			<claim id="cl005" num="5">
+<claim-text>根据权利要求1所述的血液灌流器的密封检测装置，其特征在于，所述内包装袋(3)<br/>
+承受袋内、外压力差：45～96kPa。<br/>
+</claim-text>
+			</claim>
+			<claim id="cl006" num="6">
+<claim-text>一种根据权利要求5所述的内包装袋承受袋内、外压力差的设计方法，其特征在于，<br/>
+所述内包装袋(3)承受袋内和袋外压力差的公式为：<br/>
+</claim-text>
+<claim-text>Δ＝(P<sub>imax</sub>－P<sub>omin</sub>)+P<sub>s</sub>，<br/>
+</claim-text>
+<claim-text>其中：Δ为内包装袋(3)承受袋内、外压力差；<br/>
+</claim-text>
+<claim-text>P<sub>imax</sub>为内包装袋(3)的最大内压力；P<sub>imax</sub>＝P<sub>i</sub>(1+β<sub>T</sub>)，其中，P<sub>i</sub>为内包装袋(3)<br/>
+内充气压力，β<sub>T</sub>为温度变化对压力增量系数；<br/>
+</claim-text>
+<claim-text>P<sub>omin</sub>为内包装袋(3)的最小外压力；P<sub>omin</sub>＝101.3－ALT<sub>max</sub>×0.1333/12－D<sub>ALT-P</sub>，<br/>
+其中，ALT<sub>max</sub>为血液灌流器(1)在运输、储存、使用过程中所处的海拔高度，D<sub>ALT-P</sub>为<br/>
+该海拔高度处大气压力可能偏离正常值数值；<br/>
+</claim-text>
+<claim-text>P<sub>s</sub>为压力裕度。<br/>
+</claim-text>
+			</claim>
+			<claim id="cl007" num="7">
+<claim-text>根据权利要求6所述的内包装袋承受袋内、外压力差的设计方法，其特征在于，所述<br/>
+温度变化对压力增量系数β<sub>T</sub>的取值范围为0.01-0.05。<br/>
+				<!-- 1 -->
+				
+</claim-text>
+			</claim>
+	</cn-claims>
+</cn-application-body>

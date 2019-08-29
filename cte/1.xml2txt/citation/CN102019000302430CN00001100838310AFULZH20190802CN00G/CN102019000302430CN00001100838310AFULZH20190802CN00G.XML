@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="CN102019000302430CN00001100838310AFULZH20190802CN00G.XML" dateProduced="20190727" status="C" lang="zh" country="CN" docNumber="110083831" kind="A" datePublication="20190802">
+  <business:BibliographicData>
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="national office">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>110083831</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20190802</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>110083831</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>20190802</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicAvailabilityDate>
+      <business:GazetteReference>
+        <business:GazetteNumber>35-3102</business:GazetteNumber>
+        <base:Date>20190802</base:Date>
+      </business:GazetteReference>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="national office">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>201910302430.1</base:DocNumber>
+        <base:Date>20190416</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>102019000302430</base:DocNumber>
+        <base:Date>20190416</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails creator="03" processingType="original">
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:Section>G</business:Section>
+        <business:MainClass>06</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>17</business:MainGroup>
+        <business:Subgroup>27</business:Subgroup>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G06F   17/27    (2006.01)</base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:InventionTitle lang="zh" dataFormat="original" sourceDB="national office" processingType="original" creator="03">一种基于BERT-BiGRU-CRF的中文命名实体识别方法</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails representative="1">
+        <business:Applicant sequence="1" appType="applicant" dataFormat="original" sourceDB="national office" lang="zh" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>武汉大学</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>武昌区</base:County>
+              <base:City>武汉市</base:City>
+              <base:Province>湖北省</base:Province>
+              <base:PostCode>430072</base:PostCode>
+              <base:WIPOST3Code>CN</base:WIPOST3Code>
+              <base:Text>430072 湖北省武汉市武昌区珞珈山武汉大学</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="national office" lang="zh" publicationMark="0" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>董文永</base:Name>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="national office" lang="zh" publicationMark="0" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>杨飘</base:Name>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>42222</business:CustomerNumber>
+        <business:Agent sequence="1" lang="zh" dataFormat="original" sourceDB="national office" repType="agent" processingType="original" creator="03">
+          <business:Agency>
+            <base:AddressBook lang="zh">
+              <base:OrganizationName>武汉科皓知识产权代理事务所(特殊普通合伙) 42222</base:OrganizationName>
+            </base:AddressBook>
+          </business:Agency>
+          <base:AddressBook lang="zh">
+            <base:Name>鲁力</base:Name>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="zh" sourceDB="national office" processingType="original" creator="03">
+    <base:Paragraphs num="0001">本发明公开了一种基于BERT‑BiGRU‑CRF的中文命名实体识别方法。该方法包括三个阶段，第一阶段预处理海量文本语料，预训练BERT语言模型；第二阶段预处理命名实体识别语料，利用训练好的BERT语言模型对命名实体识别语料进行编码；第三阶段将编码后的语料输入BiGRU+CRF模型中进行训练，利用训练好的模型对待识别语句进行命名实体识别。本发明通过构建基于BERT‑BiGRU‑CRF的中文命名实体识别方法，通过BERT预训练语言模型增强字的语义表示，根据字的上下文动态生成语义向量，有效表征了字的多义性。提高了中文命名实体识别的精度，且与基于语言模型微调的方法相比减少了训练参数，节省了训练时间。</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image he="567.6" wi="661" file="201910302430.TIF" imgContent="undefined" imgFormat="TIFF" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description lang="zh" dataFormat="original" sourceDB="national office" creator="03">
+    <business:InventionTitle id="title1">一种基于BERT-BiGRU-CRF的中文命名实体识别方法</business:InventionTitle>
+    <base:Paragraphs id="p0001" num="0001">技术领域</base:Paragraphs>
+    <base:Paragraphs id="p0002" num="0002">本发明属于命名实体识别领域，具体涉及一种基于BERT-BiGRU-CRF模型的中文命名实体识别方法。</base:Paragraphs>
+    <base:Paragraphs id="p0003" num="0003">背景技术</base:Paragraphs>
+    <base:Paragraphs id="p0004" num="0004">命名实体识别旨在识别文本中特定实体信息，如人名、地名、机构名等，在信息抽取，信息检索，智能问答，机器翻译中都有广泛应用，是自然语言处理的基础之一。传统的命名实体识别方法可以分为基于词典的命名实体识别方法，基于规则的命名实体识别方法，基于传统机器学习的命名实体识别的方法，基于神经网络的命名实体识别的方法和基于语言模型微调的方法。</base:Paragraphs>
+    <base:Paragraphs id="p0005" num="0005">基于词典的命名实体识别方法，该方法首先构造大规模实体词典，然后通过匹配语句和词典来进行命名实体识别。</base:Paragraphs>
+    <base:Paragraphs id="p0006" num="0006">基于规则的命名实体识别方法的原理是根据实体特有的上下文特征来构造规则，将文本与规则进行匹配来识别出命名实体。该方法需要语言学背景知识。</base:Paragraphs>
+    <base:Paragraphs id="p0007" num="0007">基于传统机器学习的命名实体识别的方法，该方法将命名实体识别任务形式化序列标注任务，通过预测每个字或者词的标签，联合预测实体边界和实体类型。例如基于CRF(条件随机场)的命名实体识别的方法、基于HMM(隐马尔可夫)的命名实体识别的方法等，这类方法的原理是通过人工构建特征模板提取特征，作为输入，学习前后一个词的语义信息，然后预测序列标签。</base:Paragraphs>
+    <base:Paragraphs id="p0008" num="0008">基于神经网络的命名实体识别的方法，其原理是将字或者词映射为单一向量，然后输入神经网络模型中进行标签预测，经典模型是BiLSTM-CRF模型。</base:Paragraphs>
+    <base:Paragraphs id="p0009" num="0009">基于预训练语言模型微调的方法，该方法通过海量语料无监督预训练一个语言模型来表征句子语义，然后在有标签的语料之上对语言模型进行微调。</base:Paragraphs>
+    <base:Paragraphs id="p0010" num="0010">上述现有技术存在下列缺陷：</base:Paragraphs>
+    <base:Paragraphs id="p0011" num="0011">1、基于词典的命名实体识别方法严重依赖于词典库，无法识别未登录词，且无法识别实体嵌套情形。</base:Paragraphs>
+    <base:Paragraphs id="p0012" num="0012">2、基于规则的命名实体识别方法在构建规则时需要语言学背景知识，中文表达具有多样性，规则难以枚举且容易冲突，还有一个缺点是不具有迁移性，工作繁琐复杂。</base:Paragraphs>
+    <base:Paragraphs id="p0013" num="0013">3、基于传统机器学习的命名实体识别的方法。</base:Paragraphs>
+    <base:Paragraphs id="p0014" num="0014">4、基于神经网络的命名实体识别的方法，该方法无法表征字或者词的多义性。有些字词在不同的上下文语境中具有不同的语义表示，该方法将字或者词映射为单一向量与事实不符。</base:Paragraphs>
+    <base:Paragraphs id="p0015" num="0015">5、基于语言模型微调的方法有参数量庞大，训练时间长的缺点。</base:Paragraphs>
+    <base:Paragraphs id="p0016" num="0016">发明内容</base:Paragraphs>
+    <base:Paragraphs id="p0017" num="0017">本发明的发明目的是：为了解决现有技术中存在的以上问题，本发明提出了一种能够有效的提高命名实体识别精度的基于BERT-BiGRU-CRF的中文命名实体识别方法。</base:Paragraphs>
+    <base:Paragraphs id="p0018" num="0018">一种基于BERT-BiGRU-CRF的中文命名实体识别方法，其特征在于，包括以下步骤：</base:Paragraphs>
+    <base:Paragraphs id="p0019" num="0019">步骤A、获取语言模型的训练语料数据并进行预处理，具体包括以下分步骤：</base:Paragraphs>
+    <base:Paragraphs id="p0020" num="0020">A1、将原始语料进行字符级切分；</base:Paragraphs>
+    <base:Paragraphs id="p0021" num="0021">A2、构建句子对正负样本，其中正样本表示句子对有上下文关系；负样本表示两个句子没有关系；</base:Paragraphs>
+    <base:Paragraphs id="p0022" num="0022">A3、对超过max_num_tokens的句子对进行截断；</base:Paragraphs>
+    <base:Paragraphs id="p0023" num="0023">A4、连接句子对，用[SEP]标签进行连接，句首置[CLS]标签,句末置[SEP]标签；</base:Paragraphs>
+    <base:Paragraphs id="p0024" num="0024">A5、随机遮住15％的单词；其中80％用masked token来代替，10％用随机的一个词来替换，10％保持这个词不变；</base:Paragraphs>
+    <base:Paragraphs id="p0025" num="0025">步骤B、根据步骤A预处理后的训练语料数据训练BERT语言模型包括Embedding层、双向Transformer编码器、输出层；</base:Paragraphs>
+    <base:Paragraphs id="p0026" num="0026">步骤C、获取命名实体识别模型的训练语料数据并进行标注，形成标注语料，</base:Paragraphs>
+    <base:Paragraphs id="p0027" num="0027">具体是对中文命名实体识别语料进行标注，采用BIO标注模式，其中B表示实体开始，I表示实体非开始部分，O表示不是实体的部分；</base:Paragraphs>
+    <base:Paragraphs id="p0028" num="0028">步骤D、对步骤C得到的标注语料进行预处理，具体包括以下分步骤：</base:Paragraphs>
+    <base:Paragraphs id="p0029" num="0029">D1、将原始语料进行字符级切分；</base:Paragraphs>
+    <base:Paragraphs id="p0030" num="0030">D2、句首置[CLS]标签,句末置[SEP]标签；对应标签也分别置为[CLS],[SEP]</base:Paragraphs>
+    <base:Paragraphs id="p0031" num="0031">步骤E、根据步骤B得到的基于BERT的语言模型和步骤D预处理后的标注语</base:Paragraphs>
+    <base:Paragraphs id="p0032" num="0032">料构建基于BERT-BiGRU-CRF的中文命名实体识别模型；</base:Paragraphs>
+    <base:Paragraphs id="p0033" num="0033">步骤F、利用步骤E得到的基于BERT-BiGRU-CRF的中文命名实体识别模型对</base:Paragraphs>
+    <base:Paragraphs id="p0034" num="0034">待识别数据进行处理，得到命名实体识别结果。</base:Paragraphs>
+    <base:Paragraphs id="p0035" num="0035">在上述的基于BERT-BiGRU-CRF的命名实体识别方法，所述步骤B还包括将步骤A5得到的训练语料变为定长，对长度不够的句子用[PAD]进行补齐，将定长语料输入BERT模型进行训练。</base:Paragraphs>
+    <base:Paragraphs id="p0036" num="0036">在上述的基于BERT-BiGRU-CRF的命名实体识别方法，所述步骤E中BERT-BiGRU-CRF模型包括步骤B中训练好的BERT语言模型，通过BERT编码步骤D中预处理好的命名实体识别语料，输出每个字的上下文表示，然后将字向量序列输入BiGRU-CRF中进行训练。</base:Paragraphs>
+    <base:Paragraphs id="p0037" num="0037">在上述的基于BERT-BiGRU-CRF的命名实体识别方法，所述步骤F利用步骤E得到的BERT-BiGRU-CRF模型对待识别数据进行处理，得到命名实体识别结果，具体为：</base:Paragraphs>
+    <base:Paragraphs id="p0038" num="0038">按照步骤D中的方式对待识别数据进行预处理，通过BERT-BiGRU-CRF预测实体标签，最后采用维特比算法求出每句话最大可能的标注序列，将其作为命名实体识别结果。</base:Paragraphs>
+    <base:Paragraphs id="p0039" num="0039">本发明的有益效果是：本发明构建了BERT-BiGRU-CRF中文命名实体识别模型，通过BERT预训练语言模型增强字的语义表示，根据字的上下文动态生成语义向量，有效表征了字的多义性。提高了中文命名实体识别的精度，且与基于语言模型微调的方法相比减少了训练参数，节省了训练时间。</base:Paragraphs>
+    <base:Paragraphs id="p0040" num="0040">附图说明</base:Paragraphs>
+    <base:Paragraphs id="p0041" num="0041">图1是本发明的基于BERT-BiGRU-CRF模型的中文命名实体识别方法的流程图示意图。</base:Paragraphs>
+    <base:Paragraphs id="p0042" num="0042">图2是本发明实施例的BERT-BiGRU-CRF模型示意图。</base:Paragraphs>
+    <base:Paragraphs id="p0043" num="0043">图3是本发明实施例的BERT预训练语言模型示意图。</base:Paragraphs>
+    <base:Paragraphs id="p0044" num="0044">具体实施方式</base:Paragraphs>
+    <base:Paragraphs id="p0045" num="0045">为了使本发明的目的、技术方案及优点更加清楚明白，以下结合附图及实施例，对本发明进行进一步详细说明。应当理解，此处所描述的具体实施例仅用以解释本发明，并不用于限定本发明。</base:Paragraphs>
+    <base:Paragraphs id="p0046" num="0046">如图1所示，为本发明的基于BERT-BiGRU-CRF模型的中文命名实体识别方法的流程示意图。包括以下步骤：</base:Paragraphs>
+    <base:Paragraphs id="p0047" num="0047">A、获取语言模型的训练语料数据并进行预处理；</base:Paragraphs>
+    <base:Paragraphs id="p0048" num="0048">B、根据步骤A预处理后的训练语料数据训练BERT(Bidirectional EncoderRepresentations from Transformers)语言模型；</base:Paragraphs>
+    <base:Paragraphs id="p0049" num="0049">C、获取命名实体识别模型的训练语料数据并进行标注，形成标注语料；</base:Paragraphs>
+    <base:Paragraphs id="p0050" num="0050">D、对步骤C得到的标注语料进行预处理；</base:Paragraphs>
+    <base:Paragraphs id="p0051" num="0051">E、根据步骤B得到的基于BERT的语言模型和步骤D预处理后的标注语料构建基于BERT-BiGRU-CRF的中文命名实体识别模型；</base:Paragraphs>
+    <base:Paragraphs id="p0052" num="0052">F、利用步骤E得到的基于BERT-BiGRU-CRF的中文命名实体识别模型对待识别数据进行处理，得到命名实体识别结果。</base:Paragraphs>
+    <base:Paragraphs id="p0053" num="0053">在本发明的一个可选实施例中，上述步骤A首先获取语言模型的训练语料数据，然后对语言模型的训练语料数据进行预处理，具体包括以下分步骤：</base:Paragraphs>
+    <base:Paragraphs id="p0054" num="0054">A1、将原始语料进行字符级切分；</base:Paragraphs>
+    <base:Paragraphs id="p0055" num="0055">A2、构建句子对正负样本，其中正样本表示句子对有上下文关系；负样本表示两个句子没有关系；</base:Paragraphs>
+    <base:Paragraphs id="p0056" num="0056">A3、对超过max_num_tokens的句子对进行截断；</base:Paragraphs>
+    <base:Paragraphs id="p0057" num="0057">A4、连接句子对，用[SEP]标签进行连接，句首置[CLS]标签,句末置[SEP]标签；</base:Paragraphs>
+    <base:Paragraphs id="p0058" num="0058">A5、随机遮住15％的单词；其中80％用masked token来代替，10％用随机的一个词来替换，10％保持这个词不变。</base:Paragraphs>
+    <base:Paragraphs id="p0059" num="0059">例如“我是在一个夕阳衔山的黄昏走进这座哨所的。失尽暖意的残阳把昆仑雪山抹成一片桔红。”这两句话经过预处理后为“[CLS]我是在一个夕阳衔山的黄[MASK]走进这座哨所的。[SEP]失尽暖意的残阳把昆仑雪山抹成一片桔红。[SEP]”,该例中[MASK]为随机遮住的字，该句子对有上下文关系，所以标签为TRUE。</base:Paragraphs>
+    <base:Paragraphs id="p0060" num="0060">在本发明的一个可选实施例中，上述步骤B根据步骤A预处理后的训练语料数据构建基于BERT(Bidirectional Encoder Representations from Transformers)的语言模型，如图2所示,为本实例中的BERT语言模型，包括Embedding层、双向Transformer编码器、输出层，其中</base:Paragraphs>
+    <base:Paragraphs id="p0061" num="0061">Embedding层是词嵌入，位置嵌入，类型嵌入之和，分别表示词信息，位置信息，句子对信息。其中位置编码计算方式如下：</base:Paragraphs>
+    <base:Paragraphs id="p0062" num="0062">
+      <base:Image he="70" wi="646" file="BDA0002028670180000041.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Paragraphs>
+    <base:Paragraphs id="p0063" num="0063">
+      <base:Image he="72" wi="688" file="BDA0002028670180000042.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Paragraphs>
+    <base:Paragraphs id="p0064" num="0064">双向Transformer编码器是多层编码单元的堆叠，每个编码单元包括自注意力模块，残差网络，层归一化结构，DropOut层。用于提取语义信息。整体计算过程如下；</base:Paragraphs>
+    <base:Paragraphs id="p0065" num="0065">
+      <base:Image he="126" wi="614" file="BDA0002028670180000043.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Paragraphs>
+    <base:Paragraphs id="p0066" num="0066">MultiHead(Q,K,V)＝Concat(head<base:Sub>1</base:Sub>,...,head<base:Sub>h</base:Sub>)W<base:Sup>o</base:Sup></base:Paragraphs>
+    <base:Paragraphs id="p0067" num="0067">head<base:Sub>i</base:Sub>＝Attention(QW<base:Sub>i</base:Sub><base:Sup>Q</base:Sup>,KW<base:Sub>i</base:Sub><base:Sup>k</base:Sup>,VW<base:Sub>i</base:Sub><base:Sup>V</base:Sup>)</base:Paragraphs>
+    <base:Paragraphs id="p0068" num="0068">
+      <base:Image he="103" wi="385" file="BDA0002028670180000051.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Paragraphs>
+    <base:Paragraphs id="p0069" num="0069">FFN＝max(0,xW<base:Sub>1</base:Sub>+b<base:Sub>1</base:Sub>)W<base:Sub>2</base:Sub>+b<base:Sub>2</base:Sub></base:Paragraphs>
+    <base:Paragraphs id="p0070" num="0070">其中Attention是自注意力模块计算公式，Q，K，V均是输入字向量矩阵，dk为输入向量维度。其核心思想是去计算一句话中的每个词对于这句话中所有词的相互关系，然后认为这些词与词之间的相互关系在一定程度上反应了这句话中不同词之间的关联性以及重要程度。因此再利用这些相互关系来调整每个词的重要性(权重)就可以获得每个词新的表达。这个新的表征不但蕴含了该词本身，还蕴含了其他词与这个词的关系，因此和单纯的词向量相比是一个更加全局的表达。</base:Paragraphs>
+    <base:Paragraphs id="p0071" num="0071">其中MultiHead是Transformer编码器的多头机制，为了扩展模型专注于不同位置的能力，增大注意力单元的“表示子空间”。LN和FFN分别为层归一化和残差网络模块计算公式，用来解决深度学习中的退化问题</base:Paragraphs>
+    <base:Paragraphs id="p0072" num="0072">输出层输出[MASK]原词的概率和句子对之间是否为上下文关系标签</base:Paragraphs>
+    <base:Paragraphs id="p0073" num="0073">本发明还包括将步骤A5得到的训练语料变为定长，对长度不够的句子用[PAD]进行补齐，然后将定长语料输入BERT模型进行训练。具体训练过程为：</base:Paragraphs>
+    <base:Paragraphs id="p0074" num="0074">将数据及标签数据，[MASK]部分原字符输入到BERT语言模型中，然后采用SGD(梯度下降法)或其他优化方法训练BERT语言模型的模型参数，当模型产生的损失值满足设定要求或者达到最大迭代次数N时，则终止该模型的训练，保存模型参数。</base:Paragraphs>
+    <base:Paragraphs id="p0075" num="0075">在本发明的一个可选实施例中，上述步骤C中，对命名实体识别模型的训练语料数据进行标注具体为采用BIO的标记方式对命名实体识别模型的训练语料数据进行标注，形成标注语料。</base:Paragraphs>
+    <base:Paragraphs id="p0076" num="0076">如果一个字符单元是一个实体词的开始，则标记为(B-...)；如果一个字符单元是一个实体词的非开始字符，则标记为(I-...)；如果一个字符不属于实体词则标注为(O)。例如“彤彤出生在南通，现在在腾讯工作。”，其标注结果为：“彤B-PER、彤I-PER、出O、生O、在O、南B-LOC、通I-LOC、，O、现O、在O、在O、腾B-ORG、讯I-ORG、工O、作O。O”。</base:Paragraphs>
+    <base:Paragraphs id="p0077" num="0077">在本发明的一个可选实施例中，上述步骤D对步骤C得到标注语料进行预处理，具体包括以下分步骤：</base:Paragraphs>
+    <base:Paragraphs id="p0078" num="0078">D1、将原始语料进行字符级切分；</base:Paragraphs>
+    <base:Paragraphs id="p0079" num="0079">D2、句首置[CLS]标签,句末置[SEP]标签；对应标签也分别置为[CLS],[SEP]</base:Paragraphs>
+    <base:Paragraphs id="p0080" num="0080">例如“彤彤出生在南通，现在在腾讯工作。”预处理后的结果为：</base:Paragraphs>
+    <base:Paragraphs id="p0081" num="0081">“[CLS][CLS]、彤B-PER、彤I-PER、出O、生O、在O、南B-LOC、通I-LOC、，O、现O、在O、在O、腾B-ORG、讯I-ORG、工O、作O。[SEP][SEP]”</base:Paragraphs>
+    <base:Paragraphs id="p0082" num="0082">在本发明的一个可选实施例中，上述步骤E根据步骤B得到的基于BERT的语言模型和步骤D预处理后的标注语料构建基于BERT-BiGRU-CRF的中文命名实体识别模型。模型如图3所示：</base:Paragraphs>
+    <base:Paragraphs id="p0083" num="0083">其中BERT模块与步骤B中一致，参数为步骤B中预训练所得。GRU(Gated recurrentunits)单元是特殊的循环神经网络单元，循环神经网络计算如下:</base:Paragraphs>
+    <base:Paragraphs id="p0084" num="0084">z<base:Sub>t</base:Sub>＝σ(W<base:Sub>i</base:Sub>*[h<base:Sub>t-1</base:Sub>,x<base:Sub>t</base:Sub>])</base:Paragraphs>
+    <base:Paragraphs id="p0085" num="0085">r<base:Sub>t</base:Sub>＝σ(W<base:Sub>r</base:Sub>*[h<base:Sub>t-1</base:Sub>,x<base:Sub>t</base:Sub>])</base:Paragraphs>
+    <base:Paragraphs id="p0086" num="0086">
+      <base:Image he="72" wi="431" file="BDA0002028670180000061.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Paragraphs>
+    <base:Paragraphs id="p0087" num="0087">
+      <base:Image he="64" wi="376" file="BDA0002028670180000062.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Paragraphs>
+    <base:Paragraphs id="p0088" num="0088">其中σ是sigmoid函数，·是点积。x<base:Sub>t</base:Sub>为时刻t的输入向量，h<base:Sub>t</base:Sub>是隐藏状态，也是输出向量，包含前面t时刻所有有效信息。z<base:Sub>t</base:Sub>是一个更新门，控制信息流入下一个时刻；r<base:Sub>t</base:Sub>是一个重置门，控制信息丢失；二者共同决定隐藏状态的输出。</base:Paragraphs>
+    <base:Paragraphs id="p0089" num="0089">CRF层能通过考虑标签之间的相邻关系获得全局最优标签序列，计算过程如下：</base:Paragraphs>
+    <base:Paragraphs id="p0090" num="0090">
+      <base:Image he="115" wi="479" file="BDA0002028670180000063.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Paragraphs>
+    <base:Paragraphs id="p0091" num="0091">P<base:Sub>i</base:Sub>＝W<base:Sub>s</base:Sub>h<base:Sup>(t)</base:Sup>+b<base:Sub>s</base:Sub></base:Paragraphs>
+    <base:Paragraphs id="p0092" num="0092">其中s表示评估分数，W是转换矩阵，W<base:Sub>yi-1</base:Sub>表示标签转移分数，P<base:Sub>i,yi</base:Sub>表示该字符的第y<base:Sub>i</base:Sub>个标签的分数。根据评估分数计算序列x到标签y的概率为：</base:Paragraphs>
+    <base:Paragraphs id="p0093" num="0093">
+      <base:Image he="142" wi="408" file="BDA0002028670180000064.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Paragraphs>
+    <base:Paragraphs id="p0094" num="0094">训练损失函数为：</base:Paragraphs>
+    <base:Paragraphs id="p0095" num="0095">
+      <base:Image he="127" wi="585" file="BDA0002028670180000065.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Paragraphs>
+    <base:Paragraphs id="p0096" num="0096">本发明训练基于BERT-BiGRU-CRF的中文命名实体识别模型的模型参数时，将步骤D2中得到的数据和标签作为模型的输入，然后采用SGD(梯度下降法)或其他优化方法训练该模型的参数，训练中只更新BiGRU层和CRF层的参数，保持BERT参数不变，当模型产生的损失值满足设定要求或者达到最大迭代次数N时，则终止该模型的训练。</base:Paragraphs>
+    <base:Paragraphs id="p0097" num="0097">在本发明的一个可选实施例中，上述步骤F利用步骤E得到的基于BERT-BiGRU-CRF的中文命名实体识别模型对待识别数据进行处理，得到命名实体识别结果，具体为：</base:Paragraphs>
+    <base:Paragraphs id="p0098" num="0098">按照步骤D中方式只对原句进行预处理，将预处理输入到基于BERT-BiGRU-CRF的中文命名实体识别模型中，并采用维特比算法求出每句话最大可能的标注序列，将其作为命名实体识别结果。</base:Paragraphs>
+    <base:Paragraphs id="p0099" num="0099">本发明构建了BERT-BiGRU-CRF中文命名实体识别模型，通过BERT预训练语言模型增强字的语义表示，根据字的上下文动态生成语义向量，有效表征了字的多义性。提高了中文命名实体识别的精度，且与基于语言模型微调的方法相比减少了训练参数，节省了训练时间。</base:Paragraphs>
+    <base:Paragraphs id="p0100" num="0100">本发明能够更精确的对文本中的命名实体进行标注，为一些下游工作，比如：知识图谱、问答系统、信息检索、机器翻译等，提供了一个良好的基础；同时既减少了许多数据标注的人力，又具备了较高的精确度。</base:Paragraphs>
+    <base:Paragraphs id="p0101" num="0101">本领域的普通技术人员将会意识到，这里所述的实施例是为了帮助读者理解本发明的原理，应被理解为本发明的保护范围并不局限于这样的特别陈述和实施例。本领域的普通技术人员可以根据本发明公开的这些技术启示做出各种不脱离本发明实质的其它各种具体变形和组合，这些变形和组合仍然在本发明的保护范围内。</base:Paragraphs>
+  </business:Description>
+  <business:Drawings lang="zh" sourceDB="national office">
+    <base:Figure id="f0001" num="0001" figureLabels="图1">
+      <base:Image id="if0001" he="599" wi="700" file="HDA0002028670190000011.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0002" num="0002" figureLabels="图2">
+      <base:Image id="if0002" he="612" wi="700" file="HDA0002028670190000012.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0003" num="0003" figureLabels="图3">
+      <base:Image id="if0003" he="619" wi="700" file="HDA0002028670190000021.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="zh" dataFormat="original" sourceDB="national office" creator="03">
+    <business:Claim id="cl0001" num="0001">
+      <business:ClaimText>1.一种基于BERT-BiGRU-CRF的中文命名实体识别方法，其特征在于，包括以下步骤：</business:ClaimText>
+      <business:ClaimText>步骤A、获取语言模型的训练语料数据并进行预处理，具体包括以下分步骤：</business:ClaimText>
+      <business:ClaimText>A1、将原始语料进行字符级切分；</business:ClaimText>
+      <business:ClaimText>A2、构建句子对正负样本，其中正样本表示句子对有上下文关系；负样本表示两个句子没有关系；</business:ClaimText>
+      <business:ClaimText>A3、对超过max_num_tokens的句子对进行截断；</business:ClaimText>
+      <business:ClaimText>A4、连接句子对，用[SEP]标签进行连接，句首置[CLS]标签,句末置[SEP]标签；</business:ClaimText>
+      <business:ClaimText>A5、随机遮住15％的单词；其中80％用masked token来代替，10％用随机的一个词来替换，10％保持这个词不变；</business:ClaimText>
+      <business:ClaimText>步骤B、根据步骤A预处理后的训练语料数据训练BERT语言模型包括Embedding层、双向Transformer编码器、输出层；</business:ClaimText>
+      <business:ClaimText>步骤C、获取命名实体识别模型的训练语料数据并进行标注，形成标注语料，</business:ClaimText>
+      <business:ClaimText>具体是对中文命名实体识别语料进行标注，采用BIO标注模式，其中B表示实体开始，I表示实体非开始部分，O表示不是实体的部分；</business:ClaimText>
+      <business:ClaimText>步骤D、对步骤C得到的标注语料进行预处理，具体包括以下分步骤：</business:ClaimText>
+      <business:ClaimText>D1、将原始语料进行字符级切分；</business:ClaimText>
+      <business:ClaimText>D2、句首置[CLS]标签,句末置[SEP]标签；对应标签也分别置为[CLS],[SEP]步骤E、根据步骤B得到的基于BERT的语言模型和步骤D预处理后的标注语料构建基于BERT-BiGRU-CRF的中文命名实体识别模型；</business:ClaimText>
+      <business:ClaimText>步骤F、利用步骤E得到的基于BERT-BiGRU-CRF的中文命名实体识别模型对待识别数据进行处理，得到命名实体识别结果。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0002" num="0002">
+      <business:ClaimText>2.如权利要求1所述的基于BERT-BiGRU-CRF的命名实体识别方法，其特征在于，所述步骤B还包括将步骤A5得到的训练语料变为定长，对长度不够的句子用[PAD]进行补齐，将定长语料输入BERT模型进行训练。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0003" num="0003">
+      <business:ClaimText>3.如权利要求2所述的基于BERT-BiGRU-CRF的命名实体识别方法，其特征在于，所述步骤E中BERT-BiGRU-CRF模型包括步骤B中训练好的BERT语言模型，通过BERT编码步骤D中预处理好的命名实体识别语料，输出每个字的上下文表示，然后将字向量序列输入BiGRU-CRF中进行训练。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0004" num="0004">
+      <business:ClaimText>4.如权利要求3所述的基于BERT-BiGRU-CRF的命名实体识别方法，其特征在于，所述步骤F利用步骤E得到的BERT-BiGRU-CRF模型对待识别数据进行处理，得到命名实体识别结果，具体为：</business:ClaimText>
+      <business:ClaimText>按照步骤D中的方式对待识别数据进行预处理，通过BERT-BiGRU-CRF预测实体标签，最后采用维特比算法求出每句话最大可能的标注序列，将其作为命名实体识别结果。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cn-application-body SYSTEM "/dtdandxsl/cn-application-body-20080416.dtd"><?xml-stylesheet type="text/xsl" href="/dtdandxsl/showxml.xsl"?><cn-application-body lang="zh" country="CN">
+	<cn-drawings>
+			<figure id="f0001" num="0001" figure-labels="图1"><img id="if0001" file="HDA0001643956590000011.jpg" wi="126" he="208" top="51" left="36" img-content="drawing" img-format="tif" orientation="portrait" inline="no" img-type="0"/>
+			</figure>
+				<!-- 1 -->
+				
+
+			<figure id="f0002" num="0002" figure-labels="图2"><img id="if0002" file="HDA0001643956590000021.jpg" wi="127" he="209" top="53" left="36" img-content="drawing" img-format="tif" orientation="portrait" inline="no" img-type="0"/>
+			</figure>
+				<!-- 2 -->
+				
+
+			<figure id="f0003" num="0003" figure-labels="图3"><img id="if0003" file="HDA0001643956590000031.jpg" wi="128" he="213" top="50" left="36" img-content="drawing" img-format="tif" orientation="portrait" inline="no" img-type="0"/>
+			</figure>
+				<!-- 3 -->
+				
+
+			<figure id="f0004" num="0004" figure-labels="图4"><img id="if0004" file="HDA0001643956590000041.jpg" wi="128" he="215" top="44" left="36" img-content="drawing" img-format="tif" orientation="portrait" inline="no" img-type="0"/>
+			</figure>
+				<!-- 4 -->
+				
+
+			<figure id="f0005" num="0005" figure-labels="图5"><img id="if0005" file="HDA0001643956590000051.jpg" wi="130" he="214" top="44" left="35" img-content="drawing" img-format="tif" orientation="portrait" inline="no" img-type="0"/>
+			</figure>
+				<!-- 5 -->
+				
+
+			<figure id="f0006" num="0006" figure-labels="图6"><img id="if0006" file="HDA0001643956590000061.jpg" wi="140" he="80" top="37" left="36" img-content="drawing" img-format="tif" orientation="portrait" inline="no" img-type="0"/>
+			</figure>
+				<!-- 6 -->
+				
+
+	</cn-drawings>
+</cn-application-body>

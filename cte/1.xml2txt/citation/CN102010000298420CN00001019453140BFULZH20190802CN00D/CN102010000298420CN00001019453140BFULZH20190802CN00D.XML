@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="CN102010000298420CN00001019453140BFULZH20190802CN00D.XML" dateProduced="20190727" status="C" lang="zh" country="CN" docNumber="101945314" kind="B" datePublication="20190802">
+  <business:BibliographicData>
+    <business:PublicationReference dataFormat="original" sequence="1" sourceDB="national office">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>101945314</base:DocNumber>
+        <base:Kind>B</base:Kind>
+        <base:Date>20190802</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>101945314</base:DocNumber>
+        <base:Kind>B</base:Kind>
+        <base:Date>20190802</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicAvailabilityDate>
+      <business:GazetteReference>
+        <business:GazetteNumber>35-3102</business:GazetteNumber>
+        <base:Date>20190802</base:Date>
+      </business:GazetteReference>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="national office">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>201010298420.4</base:DocNumber>
+        <base:Date>20101002</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>102010000298420</base:DocNumber>
+        <base:Date>20101002</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPCRDetails creator="03" processingType="original">
+      <business:ClassificationIPCR sequence="1">
+        <business:IPCVersionDate>20060101</business:IPCVersionDate>
+        <business:Section>G</business:Section>
+        <business:MainClass>06</business:MainClass>
+        <business:Subclass>F</business:Subclass>
+        <business:MainGroup>13</business:MainGroup>
+        <business:Subgroup>12</business:Subgroup>
+        <business:GeneratingOffice>
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+        </business:GeneratingOffice>
+        <business:ClassificationDataSource>H</business:ClassificationDataSource>
+        <base:Text>G06F   13/12    (2006.01)</base:Text>
+      </business:ClassificationIPCR>
+    </business:ClassificationIPCRDetails>
+    <business:InventionTitle lang="zh" dataFormat="original" sourceDB="national office" processingType="original" creator="03">一种耳机、相应的音源设备以及控制方法</business:InventionTitle>
+    <business:ReferencesCited sourceDB="national office">
+      <business:Citation srepPhase="SEA" sequence="1">
+        <business:ApplicationCitation id="pcit000001" num="0001">
+          <business:PublicationReference dataFormat="standard" sequence="1">
+            <base:DocumentID>
+              <base:WIPOST3Code>CN</base:WIPOST3Code>
+              <base:DocNumber>1719946</base:DocNumber>
+              <base:Kind>A</base:Kind>
+              <base:Date>20060111</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+          <business:PublicationReference dataFormat="original" sequence="1" sourceDB="national office">
+            <base:DocumentID>
+              <base:WIPOST3Code>CN</base:WIPOST3Code>
+              <base:DocNumber>1719946</base:DocNumber>
+              <base:Kind>A</base:Kind>
+              <base:Date>20060111</base:Date>
+            </base:DocumentID>
+          </business:PublicationReference>
+        </business:ApplicationCitation>
+      </business:Citation>
+    </business:ReferencesCited>
+    <business:RelatedDocuments>
+      <business:RelatedPublicationDoc>
+        <base:DocumentID sequence="1">
+          <base:WIPOST3Code>CN</base:WIPOST3Code>
+          <base:DocNumber>101945314</base:DocNumber>
+          <base:Kind>A</base:Kind>
+          <base:Date>20110112</base:Date>
+        </base:DocumentID>
+      </business:RelatedPublicationDoc>
+    </business:RelatedDocuments>
+    <business:Parties>
+      <business:ApplicantDetails representative="1">
+        <business:Applicant sequence="1" appType="applicant" dataFormat="original" sourceDB="national office" lang="zh" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>广州市智专信息科技有限公司</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>天河区</base:County>
+              <base:City>广州市</base:City>
+              <base:Province>广东省</base:Province>
+              <base:PostCode>510000</base:PostCode>
+              <base:WIPOST3Code>CN</base:WIPOST3Code>
+              <base:Text>510000 广东省广州高新技术开发区科学城科学大道101号1514房</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="national office" lang="zh" publicationMark="0" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>张沈平</base:Name>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+    </business:Parties>
+    <business:AssigneeDetails>
+      <business:Assignee sequence="1" dataFormat="original" sourceDB="national office" lang="zh" creator="03">
+        <base:AddressBook lang="zh">
+          <base:Name>广州市智专信息科技有限公司</base:Name>
+          <base:Address>
+            <base:AddressLine>0</base:AddressLine>
+            <base:AddressMailCode>0</base:AddressMailCode>
+            <base:PostBox>0</base:PostBox>
+            <base:AddressRoom>0</base:AddressRoom>
+            <base:AddressFloor>0</base:AddressFloor>
+            <base:AddressBuilding>0</base:AddressBuilding>
+            <base:Street>0</base:Street>
+            <base:AddressCity>0</base:AddressCity>
+            <base:County>天河区</base:County>
+            <base:City>广州市</base:City>
+            <base:Province>广东省</base:Province>
+            <base:PostCode>510000</base:PostCode>
+            <base:WIPOST3Code>CN</base:WIPOST3Code>
+            <base:Text>510000 广东省广州高新技术开发区科学城科学大道101号1514房</base:Text>
+          </base:Address>
+        </base:AddressBook>
+        <business:AssigneeCode>0000000000</business:AssigneeCode>
+      </business:Assignee>
+    </business:AssigneeDetails>
+    <business:ExaminerDetails>
+      <business:Examiner sequence="1" lang="zh" creator="03">
+        <base:Name>王欣</base:Name>
+      </business:Examiner>
+    </business:ExaminerDetails>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="zh" sourceDB="national office" processingType="original" creator="03">
+    <base:Paragraphs num="0001">一种耳机，所述耳机包括耳机功能特性存储器，用于存储耳机的功能参数。一种音源设备，所述音源设备包括耳机功能参数读取模块，当所述音源设备与耳机连接后，所述耳机功能参数读取模块读取耳机功能参数，所述音源设备根据所述读取的功能参数来调整自身的工作方式以适应所述耳机的工作。采用上面的方法后，音源设备与耳机不仅在接口上能统一，而且在功能上也能统一，同一音源设备可以适应不同性能的耳机，在功能上相互支持、合理扩展，支持更多选择，并保持最佳输出。</base:Paragraphs>
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image he="406" wi="582" file="201010298420.TIF" imgContent="undefined" imgFormat="TIFF" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description lang="zh" dataFormat="original" sourceDB="national office" creator="03">
+    <business:InventionTitle id="title1">一种耳机、相应的音源设备以及控制方法</business:InventionTitle>
+    <base:Paragraphs id="p0001" num="0001">技术领域</base:Paragraphs>
+    <base:Paragraphs id="p0002" num="0002">本发明涉及一种耳机、相应的音源设备以及控制方法。</base:Paragraphs>
+    <base:Paragraphs id="p0003" num="0003">背景技术</base:Paragraphs>
+    <base:Paragraphs id="p0004" num="0004">现在，随着技术的发展，越来越多的音源设备如MP3、DVD播放器、电视机、收音机、电话、手机等出现在人们的生活中，给人们的生活增添了乐趣。在使用这些设备的时候，一般有两种方法输出音频，一种是扬声器，一种是耳机。在使用耳机作为音频输出装置的时候，耳机一般分为有线耳机以及无线耳机；此外，按照声道来分，耳机又被分为单声道耳机、双声道耳机（又称立体声耳机）、以及多声道耳机（又称为环绕声耳机）。从市场上出售的耳机来看，不同的厂家生产的耳机都各不相同，接口标准也不是特别统一；尤其是高端耳机产品，产品的通用性比较差。此外，不同设备之间的耳机之间通用性也比较差，手机上使用的耳机就不能很好的在其它音源设备上使用。此外，不同品牌的手机耳机也不能很好兼容，相同品牌不同型号的手机耳机也不能很好兼容。这样，造成了耳机资源的极大浪费。</base:Paragraphs>
+    <base:Paragraphs id="p0005" num="0005">在通用性耳机的发展过程中，接口统一是从物理上让耳机实现了统一，但只有接口的统一并不能让耳机的功能全面发挥，耳机的控制也必须做到统一才能全面发挥耳机的功能，并促进耳机技术的不断更新。</base:Paragraphs>
+    <base:Paragraphs id="p0006" num="0006">图1是现有耳机与的连接图，两者之间一般有三条线，即左声道、右声道以及地线。但是音源设备与耳机之间只是简单的连接，音源设备不能根据耳机的特性改变输出信号。</base:Paragraphs>
+    <base:Paragraphs id="p0007" num="0007">发明内容</base:Paragraphs>
+    <base:Paragraphs id="p0008" num="0008">本发明的目的是提供一种耳机、相应的音源设备以及控制方法，使耳机与音源设备之间不仅接口兼容，而且在功能上也能相互兼容。</base:Paragraphs>
+    <base:Paragraphs id="p0009" num="0009">本发明是这样实现的：</base:Paragraphs>
+    <base:Paragraphs id="p0010" num="0010">一种耳机，所述耳机包括耳机功能特性存储器，用于存储耳机的功能参数。</base:Paragraphs>
+    <base:Paragraphs id="p0011" num="0011">更进一步，所述功能参数包括耳机的阻抗。</base:Paragraphs>
+    <base:Paragraphs id="p0012" num="0012">更进一步，所述功能参数包括耳机是否带有音频解码单元及支持格式。</base:Paragraphs>
+    <base:Paragraphs id="p0013" num="0013">更进一步，所述功能参数包括耳机的声道数。</base:Paragraphs>
+    <base:Paragraphs id="p0014" num="0014">更进一步，所述功能参数包括耳机的频率响应曲线。</base:Paragraphs>
+    <base:Paragraphs id="p0015" num="0015">更进一步，所述耳机包括音频信号通道、控制信号通道以及电源通道。</base:Paragraphs>
+    <base:Paragraphs id="p0016" num="0016">更进一步，所述存储器是E2PROM存储器。</base:Paragraphs>
+    <base:Paragraphs id="p0017" num="0017">本发明还提供一种音源设备，所述音源设备包括耳机功能参数读取模块，当所述音源设备与耳机连接后，所述耳机功能参数读取模块读取耳机功能参数，所述音源设备根据所述读取的功能参数来调整自身的工作方式以适应所述耳机的工作。</base:Paragraphs>
+    <base:Paragraphs id="p0018" num="0018">本发明还提供一种耳机与音源设备的控制方法，所述方法包括，所述音源设备读取所述耳机功能特性存储器上存储的功能特性数据；所述音源设备根据功能特性数据调整所述音源设备的音频输出控制参数，并输出音频信号。</base:Paragraphs>
+    <base:Paragraphs id="p0019" num="0019">本发明还提供一种耳机与音源设备的控制方法，所述方法包括，开机时，首先开启耳机电源，然后在T1时间开启音源设备与耳机之间的控制信号通路，在T2时间开启音频信号通路；在T3时间关闭所述音频信号通路，在T4时间关闭所述控制信号通路，在T5时间关闭所述耳机电源。</base:Paragraphs>
+    <base:Paragraphs id="p0020" num="0020">更进一步，T3=T4=T5。</base:Paragraphs>
+    <base:Paragraphs id="p0021" num="0021">采用上面的方法后，音源设备与耳机不仅在接口上能统一，而且在功能上也能统一，同一音源设备可以适应不同性能的耳机，在功能上相互支持、合理扩展，支持更多选择，并保持最佳输出。</base:Paragraphs>
+    <base:Paragraphs id="p0022" num="0022">附图说明</base:Paragraphs>
+    <base:Paragraphs id="p0023" num="0023">图1是现有耳机与的连接图；</base:Paragraphs>
+    <base:Paragraphs id="p0024" num="0024">图2是本发明的实施例示意图；</base:Paragraphs>
+    <base:Paragraphs id="p0025" num="0025">图3是耳机的频率响应曲线；</base:Paragraphs>
+    <base:Paragraphs id="p0026" num="0026">图4是图3所示的耳机频率响应曲线各个频率点所对应的幅度；</base:Paragraphs>
+    <base:Paragraphs id="p0027" num="0027">图5为本发明的耳机的典型架构图之一；</base:Paragraphs>
+    <base:Paragraphs id="p0028" num="0028">图6是不同耳机佩戴形式的显示示意图；</base:Paragraphs>
+    <base:Paragraphs id="p0029" num="0029">图7为耳机几种通讯方式的显示示意图；</base:Paragraphs>
+    <base:Paragraphs id="p0030" num="0030">图8是音源设备与耳机之间各个通路的开关顺序；</base:Paragraphs>
+    <base:Paragraphs id="p0031" num="0031">图9是音源设备与耳机之间各个通路开关时序图；</base:Paragraphs>
+    <base:Paragraphs id="p0032" num="0032">图10是采用本发明方案的音源设备和耳机连接之后的控制方法；</base:Paragraphs>
+    <base:Paragraphs id="p0033" num="0033">图11为本发明的耳机的一种简化版架构图；</base:Paragraphs>
+    <base:Paragraphs id="p0034" num="0034">图12为本发明的有线/无线耳机的架构图。</base:Paragraphs>
+    <base:Paragraphs id="p0035" num="0035">具体实施方式</base:Paragraphs>
+    <base:Paragraphs id="p0036" num="0036">本发明的主要原理是在耳机中加入耳机功能特性存储器，音源设备与耳机之间具有电源接口、控制信号接口与音频信号接口。</base:Paragraphs>
+    <base:Paragraphs id="p0037" num="0037">图2是本发明的实施例示意图。音源设备与耳机之间具有电源接口、控制信号接口与音频信号接口，其中，电源接口用于给耳机供电，音频信号接口用于给耳机提供音频信号，控制信号接口用于音源设备与耳机之间进行通信交互。通过控制接口，音源设备与耳机之间不仅能进行功能上的相互操作，如通过耳机上的按键来控制音源设备，如音量调节、曲目选择等，而且音源设备能够通过控制接口读取耳机中耳机功能特性存储器中存储的耳机功能特性数据，音源设备根据获得的功能特性数据改变输出的音频信号格式或者根据获得的功能特性数据对音频信号进行音效处理后输出。需要指出的是，本发明所说的接口，可以是有线接口，也可以是无线接口。这些接口可以是分离的，也可以是合并的。典型的，USB（Universal Serial Bus，通用串行总线）可以很好的适应本发明的需要，它既可以作为充电接口，也可以作为控制接口，还可以作为音频接口。</base:Paragraphs>
+    <base:Paragraphs id="p0038" num="0038">对于耳机，有一些重要的参数，如下所示：</base:Paragraphs>
+    <base:Paragraphs id="p0039" num="0039">1）耳机的阻抗，即电阻与电抗在向量上的和。在台式机或功放、VCD、DVD电视等有耳机插孔输出的机器上，一般使用中高阻抗的耳机比较适宜。如果使用低阻耳机，一定先要把音量调低再插上耳机，再一点点把音量调上去，阻止耳机过载将耳机烧坏或是音圈变形错位造成破音，阻抗的耳机一般比较容易推动，因此随身听等便携、省电的机器应选择低阻抗耳机，同时还要注意灵敏度要高，对随身听来说灵敏度指标更加重要。</base:Paragraphs>
+    <base:Paragraphs id="p0040" num="0040">2）耳机的灵敏度，指向耳机输入1毫瓦的功率时耳机所能发出的声压级（声压的单位是分贝，声压越大音量越大），所以一般灵敏度越高、阻抗越小，耳机越容易出声、越容易驱动。通俗的讲，耳机的灵敏度就是指在同样的在这里的情况下，需要输入的功率的大小，灵敏度越高所需要的输入功率越小。对于随身听等便携设备来说，灵敏度是一个很值得重视的指标。</base:Paragraphs>
+    <base:Paragraphs id="p0041" num="0041">3）耳机的换能方式：根据其换能方式，主要分为动圈方式、静电式和等磁式。</base:Paragraphs>
+    <base:Paragraphs id="p0042" num="0042">4）耳机的佩带形式：根据其佩戴方式，主要分为耳塞式，挂耳式和头带式。</base:Paragraphs>
+    <base:Paragraphs id="p0043" num="0043">5）耳机是模拟还是数字：传统的耳机为模拟的，如图1所示。音频信号以模拟的方式进入，直接输出到耳机并驱动耳机的线圈。数字式耳机接收数字音频信号，在耳机内进行数模转换后驱动耳机的线圈。更高级的数字式耳机还包括音频解码单元，用于对输入信号进行解码，以及音频处理单元，用于对数字音频进行音效处理。</base:Paragraphs>
+    <base:Paragraphs id="p0044" num="0044">6）如果是数字耳机，是否带有音频解码单元。音频解码单元可以对传输过来的不同格式的音频数字信号流进行解码，如PCM（Pulse Code Modulation，脉冲编码调制）格式、MP3格式、WMA （Windows Media Audio）格式、RA（RealAudio）格式、等等。</base:Paragraphs>
+    <base:Paragraphs id="p0045" num="0045">7）如果带有音频解码单元，支持哪些格式，如PCM（Pulse Code Modulation，脉冲编码调制）格式、MP3格式、WMA （Windows Media Audio）格式、RA（RealAudio）格式、等等。</base:Paragraphs>
+    <base:Paragraphs id="p0046" num="0046">8）是否带有音效处理单元。</base:Paragraphs>
+    <base:Paragraphs id="p0047" num="0047">9）耳机通讯方式：有线耳机、无线耳机、还是有线/无线耳机，其中，有线/无线耳机是指耳机既可以作为有线耳机、也可以作为无线耳机，取决于用户的选择。</base:Paragraphs>
+    <base:Paragraphs id="p0048" num="0048">10）耳机声道：单声道、双声道、多声道环绕声，等等。</base:Paragraphs>
+    <base:Paragraphs id="p0049" num="0049">11）耳机的频率响应曲线。图3是耳机的频率响应曲线，即频率所对应的灵敏度数值就是频率响应，绘制成图像就是频率响应曲线，人类听觉所能达到的范围大约在20Hz-20000Hz，目前成熟的耳机工艺都已达到了这种要求。优秀的耳机频响宽度可达5Hz-40000Hz。从图中可以看到，该耳机的频响宽度为20Hz-20000Hz，在200Hz到15000Hz之间具有较好的频响特性。图4以列表的形式给出了图3所示的耳机频率响应曲线各个频率点所对应的幅度。</base:Paragraphs>
+    <base:Paragraphs id="p0050" num="0050">图5为本发明的耳机的典型架构图之一。音频信号从音源设备输出，通过音频信号接口进入耳机，音频解码单元对输入的音频信号数据流进行解码，音频处理单元对解码后的音频信号进行音效处理，如低音增强、人声清晰、等等，在现有技术中有很多音效处理的方式。经过音效处理的信号经过数模转换后就可以输出到耳机驱动单元，如线圈。控制信号用于耳机与音源设备交互，输出给耳机的主控单元，主控单元不仅可以对内部各个单元进行控制，而且还可以与音源设备通信，传递控制信号。耳机功能特性存储器存储上面所提到的耳机参数，典型的是E2PROM存储器或者FLASH存储器。另外，存储器可以是单独的，也可以与控制程序在一起，作为程序的数据，音源设备通过与耳机通信获取该数据。另外，数据也可以是单独的E2PROM，当音源设备与耳机连接后，该存储器作为音源设备的一部分，但其物理上位于耳机内，音源设备只要采用普通E2PROM的操作方式就可以读取该数据，这种方式原理与显示器中的DDC（DISPLAY DATA CHNNEL，显示数据通道）协议中基本相同。当耳机音源设备读取到这些参数后，就可以根据这些参数来改变自身的配置，优化内部控制及调整音频输出的方式。液晶显示单元用于耳机的重要信息的显示。按键单元即用于耳机自身的控制，也作为线控设备控制音源设备。电源输入到耳机后，电源分配单元就为各个单元分配电力，以支持各部分正常功能的运作。</base:Paragraphs>
+    <base:Paragraphs id="p0051" num="0051">为了更好的说明本发明，耳机功能特性存储器存储的数据如下：</base:Paragraphs>
+    <base:Paragraphs id="p0052" num="0052">1）耳机的阻抗：200欧姆；</base:Paragraphs>
+    <base:Paragraphs id="p0053" num="0053">2）耳机的灵敏度：65db；</base:Paragraphs>
+    <base:Paragraphs id="p0054" num="0054">3）耳机的换能方式：动圈方式；</base:Paragraphs>
+    <base:Paragraphs id="p0055" num="0055">4）耳机的佩带形式：耳塞式；</base:Paragraphs>
+    <base:Paragraphs id="p0056" num="0056">5）耳机是模拟还是数字：数字；</base:Paragraphs>
+    <base:Paragraphs id="p0057" num="0057">6）带有音频解码单元；</base:Paragraphs>
+    <base:Paragraphs id="p0058" num="0058">7）支持格式：PCM、MP3、WMA；</base:Paragraphs>
+    <base:Paragraphs id="p0059" num="0059">8）带有音效处理单元；</base:Paragraphs>
+    <base:Paragraphs id="p0060" num="0060">9）耳机通讯方式：有线耳机；</base:Paragraphs>
+    <base:Paragraphs id="p0061" num="0061">10）耳机的声道：双声道；</base:Paragraphs>
+    <base:Paragraphs id="p0062" num="0062">11）耳机的频率响应曲线：数据如图4所示。</base:Paragraphs>
+    <base:Paragraphs id="p0063" num="0063">通过上面存储的数据，音源设备就知道耳机的功能特性，从而根据耳机的功能特性来改变其自身的控制以及音频信号和控制信号的输出，下面分别说明。</base:Paragraphs>
+    <base:Paragraphs id="p0064" num="0064">1）耳机的阻抗：当音源设备获取耳机的阻抗后，根据阻抗的大小，来自动调节耳机的输出音量。耳机的阻抗按照高中低来划分，如果耳机的阻抗低于16欧姆，则属于低阻抗；如果高于16欧姆且小于100欧姆，则属于中阻抗；如果高于100欧姆，则属于高阻抗。如果音源设备读取耳机的阻抗后，判断其为低阻抗，则音源设备不应当输出过大的音量，以免烧坏耳机，或者损伤用户的耳朵，尤其是在用户插入耳机的瞬间。举例来说，对于低阻抗耳机，如果接通耳机时音源设备输出音量值较大，则音源设备会自动将音量输出调整到一个合适的较低的值，此后再让用户自己根据自己需要去调节，避免在插入耳机瞬间损坏耳机；同样，对于动态范围较大的乐曲，在高音区域，如果此时输出音量值比较大，也有可能损坏耳机，当遇到高音的情况，如果此时输出音量比较高，则系统自动降低音量到一个合适的值，避免烧坏耳机。对于阻抗为中、高级别耳机，遇到上述情况时，则可以将需要调节的音量门限值设置的高一些，或者简单一点，音源设备对音量输出不进行任何处理。</base:Paragraphs>
+    <base:Paragraphs id="p0065" num="0065">2）耳机的灵敏度：灵敏度通常与耳机的阻抗相关联，一般阻抗低，灵敏度会高；阻抗高，灵敏度低。音源设备获取该参数用于参数显示，即将参数在音源设备的显示单元上显示出来，或者用于适应将来音源设备的某种需要。</base:Paragraphs>
+    <base:Paragraphs id="p0066" num="0066">3）耳机的换能方式：这里用于适应将来音源设备的某种需要。</base:Paragraphs>
+    <base:Paragraphs id="p0067" num="0067">4）耳机的佩带形式：音源设备根据耳机的佩戴形式，以不同的图形来显示不同的耳机佩戴形式,如图6所示，其中A为耳塞式，B为挂耳式，C为头带式。</base:Paragraphs>
+    <base:Paragraphs id="p0068" num="0068">5）耳机是模拟还是数字：如果耳机是模拟的，则系统直接输出模拟的音频信号，如果耳机是数字的，则输出数字信号，但具体格式要根据后面的参数来定。</base:Paragraphs>
+    <base:Paragraphs id="p0069" num="0069">6）带有音频解码单元：如果带有音频解码单元，则可以输出经过编码的数字音频信号，编码格式参照后面的支持格式参数。如果没有音频解码单元，则必须输出经过解码后的音频数字信号，经过解码后的数字音频信号以PCM格式输出到耳机，然后经过数模转换后输出。</base:Paragraphs>
+    <base:Paragraphs id="p0070" num="0070">7）支持格式：支持格式表明耳机解码单元能够解码的格式。当音源设备和耳机解码单元都支持某种音频格式的时候，音源设备可以解码后输出也可以不解码输出。当音源设备支持某种音频格式的时候而耳机解码单元不支持时，音源设备解码该音频格式后以PCM格式输出到耳机；当音源设备不支持某种音频格式，而耳机解码单元支持该音频格式，则音源设备输出未解码的音频数据给耳机，供耳机解码输出。当音源设备和耳机解码单元都不支持某种音频格式的时候，音源设备就显示不支持该音频格式。这样，当耳机未与音源设备连接的时候，音源设备对外显示其自身所具有的解码能力，即其能解码的格式；当耳机与音源设备连接的时候，音源设备对外显示其自身所具有的解码能力以及耳机所具备的解码能力。</base:Paragraphs>
+    <base:Paragraphs id="p0071" num="0071">8）如果耳机带有音效处理单元，则音源设备的音效处理能力就是音源设备的音效处理能力以及耳机音效处理能力的总和，系统可以选择是单独由耳机或者音源设备进行音效处理，还是一起来进行音效处理，或者都不进行音效处理而直接输出。</base:Paragraphs>
+    <base:Paragraphs id="p0072" num="0072">9）耳机通讯方式：音源设备根据耳机的通讯方式，以不同的图形来显示不同的耳机通讯方式，也就是耳机所支持的通讯方式。音源设备即显示耳机所支持的通讯方式，也显示耳机当前的工作方式，尤其对于有线/无线耳机，系统会根据当前通讯方式来显示其工作方式为有线还是无线，同时显示耳机所支持的通讯方式。图7为耳机几种通讯方式的显示示意图，其中A为有线耳机，B为无线耳机，C为有线/无线耳机，且当前工作方式为有线方式，D为有线/无线耳机，且当前工作方式为无线方式。</base:Paragraphs>
+    <base:Paragraphs id="p0073" num="0073">10）耳机的声道：根据耳机的声道信息，以及当前所播放节目的声音通道来提供不同的输出。如果节目是单声道，则不管耳机是何类型，都只输出单声道。如果节目是双声道，对于单声道耳机，就有三种选择：左声道、右声道、以及左右声道的合成；对于双声道耳机，则直接输出；对于多声道耳机，也只输出左右声道。如果节目是多声道，对于单声道耳机，及双声道耳机，都可以有多种组合形式输出；对于多声道耳机，则直接输出多声道音频信号。</base:Paragraphs>
+    <base:Paragraphs id="p0074" num="0074">11）耳机的频率响应曲线：音源设备读取频率响应曲线各个频率点以及相应的幅度后，则根据该曲线对输出音频信号进行处理。以下是几种常见的处理方式。</base:Paragraphs>
+    <base:Paragraphs id="p0075" num="0075">A方式:音源设备根据耳机的频率响应曲线，获取表现最佳的频率范围，对于图4，最佳频率范围为200Hz至15000Hz，则音源设备只对该范围的音频信号进行处理，对超出该范围的则可以忽略不处理，从而提高系统的处理速度。</base:Paragraphs>
+    <base:Paragraphs id="p0076" num="0076">B方式：对于理想耳机的频率响应曲线，其曲线应该是一条水平线，即对各个频率的响应都是一样的，但实际很难做到。为此，音源设备可以按照一定的算法对音频信号进行处理，从而获得近似理想的效果。简单的处理方式是：获取耳机最佳频率范围的平均响应幅度，然后根据该平均响应幅度，对各个频率的音频信号，按照其实际响应幅度与平均响应幅度的差值，高出平均响应幅度的，则音效处理时减小该频率的输出强度，低于平均响应幅度的，则音效处理时增加该频率的输出强度，最后合成后输出。以图4为例，200Hz至15000Hz为最佳频率范围，其平均响应幅度为：</base:Paragraphs>
+    <base:Paragraphs id="p0077" num="0077">（（-5）+（-3）+（-0.5）+0+3+（-3）+2+（-5））/8 = -1.43（dBr）</base:Paragraphs>
+    <base:Paragraphs id="p0078" num="0078">从上面的计算可以看出，其取特征频率的响应幅度的平均值。对于200Hz，其实际响应幅度为-5，未达到-1.43，则音效处理单元可以提高该频率分量3.57dBr后再输出。对于10000Hz，其实际响应幅度为2，超过-1.43，则音效处理单元可以降低该频率分量3.43dBr后再输出。实际的处理可能各有差异，但基本原理都基本相同或近似。</base:Paragraphs>
+    <base:Paragraphs id="p0079" num="0079">上面描述了如何通过存储的耳机的功能特性数据，音源设备根据耳机的功能特性来改变其自身的控制以及音频信号和控制信号的输出。下面从整体来描述音源设备与耳机如何协同工作的。</base:Paragraphs>
+    <base:Paragraphs id="p0080" num="0080">图8是音源设备与耳机之间各个通路的开关顺序。在音源设备开机时，首先接通耳机电源，然后打开音源设备与耳机之间的控制信号通路，接下来，开启音频信号通路。这时，系统开始正常工作。当关闭系统时，首先，关闭音频信号通路，然后关闭控制信号通路，最后关闭连接音源设备与耳机之间的电源通路或者关闭耳机电源（在耳机独立供电时）。</base:Paragraphs>
+    <base:Paragraphs id="p0081" num="0081">图9是音源设备与耳机之间各个通路开关时序图。耳机电源开启后，在T1时间打开控制信号，T2时间打开音频信号，T3时间关闭音频信号，T4时间关闭控制信号，T5时间关闭耳机电源。一般来说，T1&lt;T2&lt;T3&lt;T4&lt;T5，但T3，T4及T5可以相等。</base:Paragraphs>
+    <base:Paragraphs id="p0082" num="0082">图10是采用本发明方案的音源设备和耳机连接之后的控制方法。首先，音源设备读取耳机功能特性存储器上存储的功能特性数据，然后，音源设备根据功能特性数据调整音源设备的音频输出控制参数，最后输出音频信号。对于不同的功能特性数据音源设备有不同的做法，前面也有描述，这里不再赘述。</base:Paragraphs>
+    <base:Paragraphs id="p0083" num="0083">图11为本发明的耳机的一种简化版架构图。音频信号从音源设备输出，通过音频信号接口进入耳机并输出到喇叭。控制信号用于耳机与音源设备交互，输出给耳机的主控单元，主控单元不仅可以对内部各个单元进行控制，而且还可以与音源设备通信，传递控制信号。耳机功能特性存储器存储上面所提到的耳机参数，典型的是E2PROM存储器。音源设备读取到这些参数后，就可以根据这些参数来改变自身的配置，优化内部控制及调整音频输出的方式。电源输入到耳机后，电源分配单元就为各个单元分配电力，以支持各部分正常功能的运作。</base:Paragraphs>
+    <base:Paragraphs id="p0084" num="0084">图12为本发明的有线/无线耳机的架构图。该耳机既包括了有线接口，也包括了无线接口。从有线接口以及无线接口可以传输控制信号和音频信号。分离出的音频信号输送给喇叭，而分离出的控制信号输出给耳机的主控单元，主控单元不仅可以对内部各个单元进行控制，而且还可以与音源设备通信，传递控制信号。耳机功能特性存储器存储上面所提到的耳机参数，典型的是E2PROM存储器。音源设备读取到这些参数后，就可以根据这些参数来改变自身的配置，优化内部控制及调整音频输出的方式。电源输入到耳机后，电源分配单元就为各个单元分配电力，以支持各部分正常功能的运作。需要指出的是，该实施例首先是提供了一种兼容有线/无线的新型耳机，然后是提供了耳机功能特性存储器。音频信号、控制信号的融合分离方法存在多样性的选择，并不限于本实施例，如音频信号以及控制信号的分离可以由主控单元来完成。对于有线/无线耳机，最大的好处是用户可以选择，有线接口虽然不那么用户友好，但没有辐射，而无线接口是具有较大的辐射的。如果音源设备和耳机检测到有线连接时，会终止无线接口的传输，反过来，如果检测到有线断开时，双方就会启动无线接口。而且，在有线传输时，电源也是有线接口的一部分，可以对电源部分进行充电，并为各个部分提供电力；当无线传输时，耳机内部电源开始工作，为各个部分提供电力。</base:Paragraphs>
+    <base:Paragraphs id="p0085" num="0085">最后应说明的是：以上实施例仅用以说明而非限制本发明的技术方案，本领域的普通技术人员可以对本发明进行修改或者等同替换，而不脱离本发明的精神和范围的任何修改或局部替换，其均应涵盖在本发明的权利要求保护范围内。</base:Paragraphs>
+  </business:Description>
+  <business:Drawings lang="zh" sourceDB="national office">
+    <base:Figure id="f0001" num="0001" figureLabels="图1">
+      <base:Image id="if0001" he="116" wi="286" file="101002195318.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0002" num="0002" figureLabels="图2">
+      <base:Image id="if0002" he="116" wi="286" file="101002195325.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0003" num="0003" figureLabels="图3">
+      <base:Image id="if0003" he="291" wi="558" file="101002195543.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0004" num="0004" figureLabels="图4">
+      <base:Image id="if0004" he="343" wi="262" file="101002195549.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0005" num="0005" figureLabels="图5">
+      <base:Image id="if0005" he="427" wi="597" file="101002195557.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0006" num="0006" figureLabels="图6">
+      <base:Image id="if0006" he="119" wi="348" file="101002195607.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0007" num="0007" figureLabels="图7">
+      <base:Image id="if0007" he="79" wi="454" file="101002195615.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0008" num="0008" figureLabels="图8">
+      <base:Image id="if0008" he="543" wi="166" file="101002195722.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0009" num="0009" figureLabels="图9">
+      <base:Image id="if0009" he="271" wi="494" file="101002195733.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0010" num="0010" figureLabels="图10">
+      <base:Image id="if0010" he="357" wi="222" file="101002195741.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0011" num="0011" figureLabels="图11">
+      <base:Image id="if0011" he="407" wi="390" file="101002195747.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f0012" num="0012" figureLabels="图12">
+      <base:Image id="if0012" he="415" wi="486" file="101002195755.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="zh" dataFormat="original" sourceDB="national office" creator="03">
+    <business:Claim id="cl0001" num="0001">
+      <business:ClaimText>1.一种耳机，其特征在于，所述耳机包括，</business:ClaimText>
+      <business:ClaimText>非易失性的耳机功能特性存储器，用于存储耳机的功能特性参数，所述功能特性参数包括所述耳机支持的音频格式和通讯方式，所述耳机包括所述支持格式的音频解码单元，所述音频解码单元用于对音频信号数据流进行解码，所述通讯方式为有线/无线，当音源设备与所述耳机按所述通讯方式连接后，所述音源设备通过所连接的通讯方式经双向通讯读取所述耳机功能特性参数，所述音源设备根据所述读取的功能特性参数来配置自身的工作参数以适应所述耳机的功能特性；</business:ClaimText>
+      <business:ClaimText>电源分配单元，至少用于为所述音频解码单元分配电力；</business:ClaimText>
+      <business:ClaimText>音源设备接口单元，包括有线接口单元和无线接口单元，所述有线接口单元用于以有线连接的方式从所述音源设备接收音频信号以及电力，所述无线接口单元用于以无线连接的方式从音源设备接收音频信号；所述音频解码单元解码所述有线接口单元和所述无线接口单元接收到的音频信号；</business:ClaimText>
+      <business:ClaimText>如果所述音源设备和所述耳机检测到所述有线接口连接时，终止所述无线接口的传输；如果检测到所述有线接口断开时，则所述音源设备和所述耳机启动所述无线接口连接。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0002" num="0002">
+      <business:ClaimText>2.如权利要求1所述的耳机，其特征在于，所述功能特性参数还包括耳机的阻抗。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0003" num="0003">
+      <business:ClaimText>3.如权利要求1所述的耳机，其特征在于，所述功能特性参数还包括耳机的声道数。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0004" num="0004">
+      <business:ClaimText>4.如权利要求1所述的耳机，其特征在于，所述功能特性参数还包括耳机的频率响应曲线。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0005" num="0005">
+      <business:ClaimText>5.如权利要求1至4中任意一项所述的耳机，其特征在于，所述音源设备接口单元包括音频信号通道、控制信号通道以及电源通道。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0006" num="0006">
+      <business:ClaimText>6.一种音源设备，其特征在于，所述音源设备包括，</business:ClaimText>
+      <business:ClaimText>耳机功能特性参数读取模块，所述功能特性参数包括所述耳机支持的音频格式和通讯方式，所述通讯方式为有线/无线，当所述音源设备与耳机按所述通讯方式连接后，所述耳机功能特性参数读取模块通过所连接的通讯方式经双向通讯读取存储在所述耳机的非易失性存储器中的耳机功能特性参数，所述音源设备根据所述读取的功能特性参数来配置自身的工作参数以适应所述耳机的功能特性；</business:ClaimText>
+      <business:ClaimText>所述音源设备还包括有线接口单元和无线接口单元，所述有线接口单元用于以有线连接的方式为所述耳机提供音频信号以及电力，所述无线接口单元用于以无线连接的方式为所述耳机提供音频信号；</business:ClaimText>
+      <business:ClaimText>所述音源设备根据从所述耳机中读取的所述耳机支持的音频格式以及通讯方式，可切换地为所述耳机输出音频信号；</business:ClaimText>
+      <business:ClaimText>如果所述音源设备和所述耳机检测到所述有线接口连接时，终止所述无线接口的传输；如果检测到所述有线接口断开时，则所述音源设备和所述耳机启动所述无线接口连接。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="cl0007" num="0007">
+      <business:ClaimText>7.一种耳机与音源设备的控制方法，其特征在于，所述方法包括，</business:ClaimText>
+      <business:ClaimText>所述音源设备通过双向通讯读取所述耳机的非易失性的功能特性存储器上存储的功能特性参数；</business:ClaimText>
+      <business:ClaimText>所述音源设备根据所述功能特性参数配置所述音源设备的音频输出控制参数，适应所述耳机的功能特性，并输出音频信号；</business:ClaimText>
+      <business:ClaimText>所述功能特性参数包括所述耳机支持的音频格式和通讯方式，所述耳机包括所述支持格式的音频解码单元，所述音频解码单元用于对音频信号数据流进行解码，所述通讯方式为有线/无线；</business:ClaimText>
+      <business:ClaimText>所述音源设备和所述耳机包括有线接口单元和无线接口单元，所述有线接口单元用于以有线连接的方式为所述耳机提供音频信号以及电力，所述无线接口单元用于以无线连接的方式为所述耳机提供音频信号；</business:ClaimText>
+      <business:ClaimText>所述音源设备根据从所述耳机中读取的所述耳机支持的音频格式和通讯方式，可切换地为所述耳机输出音频信号；所述音频解码单元解码所述有线接口单元和所述无线接口单元接收到的所述音源设备输出的音频信号；</business:ClaimText>
+      <business:ClaimText>如果所述音源设备和所述耳机检测到所述有线接口连接时，终止所述无线接口的传输；如果检测到所述有线接口断开时，则所述音源设备和所述耳机启动所述无线接口连接。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>

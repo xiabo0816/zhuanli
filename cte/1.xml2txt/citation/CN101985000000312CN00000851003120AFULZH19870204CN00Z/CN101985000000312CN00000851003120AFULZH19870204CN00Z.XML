@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="CN101985000000312CN00000851003120AFULZH19870204CN00Z.XML" dateProduced="20171219" status="C" lang="zh" country="CN" docNumber="85100312" kind="A" datePublication="19870204">
+  <business:BibliographicData>
+    <business:PublicationReference dataFormat="original" sourceDB="national office" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>85100312</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>19870204</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>85100312</base:DocNumber>
+        <base:Kind>A</base:Kind>
+        <base:Date>19870204</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicAvailabilityDate>
+      <business:GazetteReference>
+        <business:GazetteNumber>3-05</business:GazetteNumber>
+        <base:Date>19870204</base:Date>
+      </business:GazetteReference>
+    </business:PublicAvailabilityDate>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="national office">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>85100312</base:DocNumber>
+        <base:Date>19850401</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>101985000000312</base:DocNumber>
+        <base:Date>19850401</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPC>
+      <base:EditionStatement>4</base:EditionStatement>
+      <business:MainClassification dataFormat="original">B03C3/09</business:MainClassification>
+      <business:MainClassification dataFormat="standard">B03C0003090000</business:MainClassification>
+      <business:FurtherClassification sequence="1" dataFormat="original">F28F1/38</business:FurtherClassification>
+      <business:FurtherClassification sequence="1" dataFormat="standard">F28F0001380000</business:FurtherClassification>
+      <business:FurtherClassification sequence="2" dataFormat="original">F28G1/02</business:FurtherClassification>
+      <business:FurtherClassification sequence="2" dataFormat="standard">F28G0001020000</business:FurtherClassification>
+    </business:ClassificationIPC>
+    <business:InventionTitle lang="zh" dataFormat="original" sourceDB="national office" processingType="original" creator="03">一种静电热管热交换式除尘器</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails representative="1">
+        <business:Applicant sequence="1" appType="applicant" dataFormat="original" sourceDB="national office" lang="zh" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>东北工学院</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>和平区</base:County>
+              <base:City>沈阳市</base:City>
+              <base:Province>辽宁省</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>CN</base:WIPOST3Code>
+              <base:Text>辽宁省沈阳市和平区文化路一段一号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="national office" lang="zh" publicationMark="0" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>于纯让</base:Name>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" lang="zh" dataFormat="original" sourceDB="national office" repType="agent" processingType="original" creator="03">
+          <business:Agency>
+            <base:AddressBook lang="zh">
+              <base:OrganizationName>东北工学院专利事务所</base:OrganizationName>
+            </base:AddressBook>
+          </business:Agency>
+          <base:AddressBook lang="zh">
+            <base:Name>崔德河</base:Name>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="zh" sourceDB="national office" processingType="original" creator="03">
+    <base:Paragraphs num="0001">本发明属于高温含尘气体的净化与余热回收的综合治理。</base:Paragraphs>
+    <base:Paragraphs num="0002">本发明将高压静电和热管有机的结合为一体。充分发挥电场、热力场和空气动力场的共同作用，合理地布置作为集尘区的热管形式，采用平板型可移动式清灰刷，在设备正常运转情况下，连续不断的对热管的蒸发端和荷电区清灰，保证了除尘和回收余热的高效率。</base:Paragraphs>
+  </business:Abstract>
+  <business:Description lang="zh" dataFormat="original" sourceDB="national office" creator="03">
+    <business:TechnicalField id="technical-field001">
+      <base:Paragraphs id="d0" num="0001">本发明属于高温含尘气体的净化与余热回收的综合治理。</base:Paragraphs>
+    </business:TechnicalField>
+    <business:Disclosure id="disclosure001">
+      <base:Paragraphs id="d1" num="0002">本发明是以新型换热元件-热管的蒸发端做为高压静电除尘的集尘极，在集尘极的前端加设一个由阳极板和阴极线组成的荷电区。当高温含尘气体经过荷电区时，粉尘粒子带电并凝并，从而被收集在热管的蒸发端上。与此同时，气体和粉尘粒子的热量由热管的蒸发端传到热管的冷凝端。经水箱中流动的水回收，达到除尘同时又回收余热的目的。为保证除尘和热交换的高效率，采用了“
+            <base:Image he="68" wi="38" file="85100312_IMG5.TIF" imgFormat="TIFF" />”字型和“
+            <base:Image he="53" wi="50" file="85100312_IMG6.TIF" imgFormat="TIFF" />”字型散热片连接热管，增大热交换面积。为了清除阳极板、阴极线和热管及散热片上的灰尘。采用了可移动式平板型刷子连续进行清灰。本发明所说的除尘器型状为立方体。</base:Paragraphs>
+    </business:Disclosure>
+    <business:BackgroundArt id="background-art001">
+      <base:Paragraphs id="d2" num="0003">热管交换器在我国刚刚推广应用。由于清灰问题没得到很好的解决，多用于含少量粉尘的场合。尽管采用了一定的清灰手段，由于不彻底，至使热管工作一段时间后热交换效果下降。对于高含尘气体，一般是在热管交换器前加设一级旋风除尘器，然后经热管回收余热，降温后再经布袋除尘器净化。该系统不仅设备复杂，占地面积大，且难以保证热管的高效率。</base:Paragraphs>
+      <base:Paragraphs id="d3" num="0004">经检索国外文献，只见有静电与常规热交换器相结合的例子。例如日本专利：昭52-45073。该实例缺点是热交换效率低和热交换面积不易增大。</base:Paragraphs>
+    </business:BackgroundArt>
+    <business:Disclosure id="disclosure2">
+      <base:Paragraphs id="d4" num="0005">本发明目的：利用电场力、热力场力和空气动力三者作用，对于高温高含尘浓度的烟气进行高效率的除尘和回收余热。</base:Paragraphs>
+      <base:Paragraphs id="d5" num="0006">利用下列附图对发明进行详细的描述。</base:Paragraphs>
+    </business:Disclosure>
+    <business:DrawingsDescription id="description-of-drawings001">
+      <base:Paragraphs id="d6" num="0007">图1.发明的主视剖面图。</base:Paragraphs>
+      <base:Paragraphs id="d7" num="0008">图2.发明的俯视剖面图。</base:Paragraphs>
+      <base:Paragraphs id="d8" num="0009">图3.清灰刷的平面图。</base:Paragraphs>
+    </business:DrawingsDescription>
+    <business:InventionMode id="mode-for-invention001">
+      <base:Paragraphs id="d9" num="0010">1为热管，2为水箱，3为热水出口，4是冷水进口，5为阳极板，6为阴极线，7为高温含尘气体入口，8是灰斗，9为刷架导向杆，10.为清灰刷，11.是净化低温气体出口，12.为平板型刷架连接部分，13.为高压静电电源，14.为负极，15.为正极，16.为散热片，17.为电机，18.为调速器，19.为卷筒，20.为钢丝绳，21.为“”字型散热片，22.为除尘器箱壁，23.为滑轮，24.为刷齿，25.为平板型刷架，26.为刷架导向孔，27.为荷电区，28.为集尘区，29.为荷电区与集尘区之间的距离。</base:Paragraphs>
+      <base:Paragraphs id="d10" num="0011">将阳极板〔5〕和阴板线〔6〕置于除尘器的入气端，阳极板〔5〕接高压静电电源〔13〕的正极〔15〕，阴极线〔6〕接其负极〔14〕，从而阳极板〔5〕和阴极线〔6〕之间形成荷电区〔27〕。当高温含尘气流经过荷电区〔27〕时，粉尘粒子带电，并产生一定凝并。将热管〔1〕沿垂直于含尘气流且与阳极板〔5〕平行的方向成排布置。热管布置区与荷电区之间有一段距离，每排热管的个数为偶数个，共有2+1排热管（这里所说的为不为零的正整数，依高温含尘气流的含尘浓度及除尘指标等而定）。奇数排上的热管每两个为一组，采用“
+            <base:Image he="68" wi="38" file="85100312_IMG7.TIF" imgFormat="TIFF" />”字型散热片〔16〕相连接。偶数排两端的热管通过“
+            <base:Image he="60" wi="50" file="85100312_IMG8.TIF" imgFormat="TIFF" />”字型散热片〔21〕固定于除尘器的箱壁〔22〕，其余热管的连接方式与奇数排上的热管连接方式相同。这些经过连接的热管，采用交措布置的方式，以增大热交换面积。</base:Paragraphs>
+      <base:Paragraphs id="d11" num="0012">将热管〔1〕与高压静电电源〔13〕的正极〔15〕相连接，使其带正电。热管〔1〕的蒸发端间形成集尘区〔28〕。此时经过荷电区〔28〕而带电的高温粉尘粒子受到电场力、热力场力和空气动力场力的综合作用。向集尘区〔28〕运动，从而吸附于热管的蒸发端和散热片上。被净化的低温气体从出口〔11〕排出。</base:Paragraphs>
+      <base:Paragraphs id="d12" num="0013">高温气流及粒子的热量，经热管的蒸发端传到冷凝端。该能量被流入水箱〔2〕入口〔4〕的冷水带走，由热水出口〔3〕排出。从而达到在净化含尘气体的同时，又回收余热的目的。</base:Paragraphs>
+      <base:Paragraphs id="d13" num="0014">作为热交换器和静电除尘器都需要很好地解决清灰问题，保证除尘和热交换的高效率。本发明采用了平板型可连续移动的清灰刷子〔10〕，它是由平板型刷架〔25〕，刷齿〔24〕和平板型刷架连接部分〔12〕所组成。刷齿〔24〕围绕于热管〔1〕，阳极板〔5〕，阴极线〔6〕和“
+            <base:Image he="63" wi="38" file="85100312_IMG9.TIF" imgFormat="TIFF" />”型及“
+            <base:Image he="60" wi="50" file="85100312_IMG10.TIF" imgFormat="TIFF" />”型散热片周围。清灰刷〔10〕在荷电区〔27〕内的平板型刷架〔25〕，刷齿〔24〕和平板型刷架连接部分〔12〕由聚四氟乙烯材料构成。集尘区〔28〕内的平板型刷架〔25〕和刷齿〔24〕由耐高温的金属材料构成。</base:Paragraphs>
+      <base:Paragraphs id="d14" num="0015">清灰刷〔10〕通过卷筒〔19〕，调速箱〔18〕，钢丝绳〔20〕和滑轮〔23〕由电机带动，沿导向杆〔9〕上下移动，同时清除粘附于阴极线〔6〕，阳极板〔5〕，热管〔1〕及连接热管的散热片上的灰尘。</base:Paragraphs>
+    </business:InventionMode>
+    <business:Disclosure id="disclosure3">
+      <base:Paragraphs id="d15" num="0016">本发明将高压静电和热管有机的结合为一体，充分发挥电场力、热力场力和空气动力的综合作用，合理地布置作为集尘区的热管形式。采用平板型可移动式清灰刷，在设备正常运转条件下连续不断的清灰，保证了除尘和回收余热的高效率，同时也克服了清灰时灰二次飞场的缺点。</base:Paragraphs>
+      <base:Paragraphs id="d16" num="0017">本发明中阴极线，阳极板和热管的数量及所加电压的大小，依据高温气流含尘浓度、静化标准，气流量而定。</base:Paragraphs>
+      <base:Paragraphs id="d17" num="0018">本发明在实验室进行了实验，结果表明其除尘、余热回收和清灰效果都优于其它种类的除尘器，且本发明结构简明，易于实施。</base:Paragraphs>
+    </business:Disclosure>
+  </business:Description>
+  <business:Drawings lang="zh" sourceDB="national office">
+    <base:Figure num="0001" figureLabels="图1">
+      <base:Image he="700" wi="490" file="85100312_DRIMG1.TIF" imgFormat="TIFF" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="zh" dataFormat="original" sourceDB="national office" creator="03">
+    <business:Claim id="ci1" num="0001">
+      <business:ClaimText>1、一种用于高温含尘气体净化之目的的静电热管热交换式除尘器，包括阳极板[5]，阴极线[6]和集尘区[28]，其特征在于：所说的阳极板[5]和阴极线[6]分别与高压静电电源[13]的阳极[15]和阴极[14]相连，置于所说除尘器的入气端，形成荷电区[27]；集尘区[28]由热管[1]的蒸发端组成，热管[1]与所说高压静电电源[13]的阴极[15]相连，集尘区[28]置于荷电区[27]之后，荷电区[27]与集尘区[28]之间有一段距离[29]。为清除集尘区[28]和荷电区[27]中的灰尘，采用可移动的平板型清灰刷[10]。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="ci2" num="0002">
+      <business:ClaimText>2、按照权利要求1所述的一种静电热管热交换式除尘器，其特征在于：在集尘区〔28〕，以荷电区〔27〕中阳极板〔15〕放置方向，放置有2n+1排热管（所说的n为不为零的任意正整数），每排上的热管为偶数个，奇数排上的热管每两个为一组。通过“
+                <base:Image he="58" wi="35" file="85100312_IMG1.TIF" imgFormat="TIFF" />”字型散热片〔16〕相连接;偶数排两端的热管通过“
+                <base:Image he="53" wi="50" file="85100312_IMG2.TIF" imgFormat="TIFF" />”字型散热片〔21〕固定于所说除尘器的箱壁〔22〕。其余热管连接方式与奇数排上的连接方式相同。这些经过连接的热管采取交措布置的形式。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="ci3" num="0003">
+      <business:ClaimText>3、按照权利要求1和2所述的一种静电热管热交换式除尘器，其特征在于：所说清灰刷〔10〕由平板型刷架〔25〕，刷齿〔24〕和平板型刷架连接部分〔12〕所组成，刷齿〔24〕围绕于热管〔1〕，阴极线〔6〕，阳极板〔5〕和“
+                <base:Image he="58" wi="35" file="85100312_IMG3.TIF" imgFormat="TIFF" />”字型及“
+                <base:Image he="53" wi="50" file="85100312_IMG4.TIF" imgFormat="TIFF" />”字型散热片周围。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="ci4" num="0004">
+      <business:ClaimText>4、按照权利要求1和3中所述的一种静电热管热交换式除尘器，其特征在于：所说清灰刷〔10〕在荷电区〔27〕内的平板型刷架〔25〕，刷齿〔24〕和平板型刷架连接部分〔12〕由聚四氟乙稀绝缘材料构成，集尘区〔28〕内的平板型刷架〔25〕和刷齿〔24〕由耐高温的金属材料构成。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="ci5" num="0005">
+      <business:ClaimText>5、按照权利要求1和4中所述的一种静电热管热交换式除尘器，其特征在于：所说的清灰刷〔10〕通过卷筒〔19〕，调速箱〔18〕，钢丝绳〔20〕和滑轮〔23〕由电机带动，沿导向杆〔9〕上下运行。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>
